@@ -1,0 +1,567 @@
+<!DOCTYPE html><html lang="ja" itemscope itemtype="http://schema.org/WebPage"><head><meta charset="utf-8"><script nonce="rTlwRsEFjIeOc-qeS1bacA">var DOCS_timing={}; DOCS_timing['sl']=new Date().getTime();</script><script nonce="rTlwRsEFjIeOc-qeS1bacA">function _DumpException(e) {throw e;}</script><script nonce="rTlwRsEFjIeOc-qeS1bacA">_docs_flag_initialData={"atari-esrt":false,"atari-emtpr":false,"atari-ebidm":false,"atari-ebids":false,"atari-emasgcfrg":false,"atari-estm":false,"atari-edtm":false,"atari-eibrm":false,"atari-enmm":false,"atari-ectm":false,"atari-ects":false,"docs-text-elei":false,"docs-text-usc":true,"atari-bae":false,"docs-text-etsrdpn":false,"docs-text-etsrds":false,"docs-text-erdfs":false,"docs-text-encps":false,"docs-text-eeves":false,"docs-text-endes":false,"docs-text-etocls":false,"docs-text-escpv":true,"docs-text-efts":false,"docs-text-ecfs":false,"docs-text-ecss":false,"docs-text-evs":false,"docs-text-etvs":false,"docs-text-etvls":false,"docs-text-ethples":false,"docs-text-echs":false,"docs-text-eessips":false,"docs-text-eesntps":false,"docs-text-eesss":false,"docs-text-etls":false,"docs-text-eses":false,"docs-text-ems":false,"docs-text-edctps":false,"docs-etshc":false,"docs-text-tbcb":2.0E7,"docs-text-ftls":true,"docs-efsmsdl":false,"docs-euoftm":false,"docs-text-etb":false,"docs-text-esbefr":false,"docs-text-etof":false,"docs-text-ipi":false,"docs-etbe":false,"docs-text-ehlb":false,"docs-text-epa":true,"docs-text-ecls":true,"docs-text-ehgtc":false,"docs-text-enbcr":false,"docs-text-svofc":false,"docs-sup":"","docs-eldi":false,"docs-ecuach":false,"docs-eeii":false,"docs-eiq":false,"docs-ecci":false,"docs-esi":false,"docs-liap":"/logImpressions","ilcm":{"eui":"AHKXmL0LUNsrKV3qNAeXouSMRGACfDj0jRL0g_wtgF3d1wZ-c5uqgEHhbkBxtIoc7CO-yAEpar4L","je":1,"sstu":1669276465009175,"si":"CIqk6rWrxvsCFTODIwAd3S8NuA","gsc":null,"ei":[5703839,5704621,5706832,5706836,5707711,5708870,5713207,5714550,5720925,5734954,5735806,5737441,5737800,5738529,5740814,5741775,5743124,5744711,5747265,5748029,5752694,5753329,5754229,5754788,5759422,5760348,5760827,5762729,5764268,5765551,5766777,5767851,5773678,5774347,5776517,5776917,5780205,14101306,14101502,14101510,14101534,49369425,49370160,49372443,49375322,49378889,49398147,49441866,49450016,49472071,49487578,49499456,49507738,49510708,49512373,49610926,49622831,49624080,49641335,49644023,49646169,49695456,49703991,49747010,49816165,49822929,49837788,49838524,49838728,49842863,49923487,49943982,49953460,49970079,50022334],"crc":0,"cvi":[]},"docs-ccdil":false,"docs-eil":true,"docs-eoi":false,"info_params":{"token":"AHL0AtK0HYDv0J77mYCyZnkcVXEFqzgpYg:1669276464980"},"atari-jefp":"/_/view/jserror","docs-jern":"view","atari-rhpp":"/_/view","docs-eeytpgc":false,"docs-feytpgc":false,"docs-eytpgcv":0}; _docs_flag_cek= null ; if (window['DOCS_timing']) {DOCS_timing['ifdld']=new Date().getTime();}</script><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="referrer" content="strict-origin-when-cross-origin"><link rel="icon" href="https://ssl.gstatic.com/atari/images/public/favicon.ico"><meta property="og:title" content="OPC・学び舎"><meta property="og:type" content="website"><meta property="og:url" content="https://sites.google.com/view/todays-math-problem/%E3%83%9B%E3%83%BC%E3%83%A0"><meta property="og:description" content="
+問題はこちら！"><meta itemprop="name" content="OPC・学び舎"><meta itemprop="description" content="
+問題はこちら！"><meta itemprop="url" content="https://sites.google.com/view/todays-math-problem/%E3%83%9B%E3%83%BC%E3%83%A0"><link href="https://fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C700%2C700italic&display=swap" rel="stylesheet" nonce="CKnFNUyvrdbzqWT92ZK0KQ"><link href="https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500,700|Source+Code+Pro:400,700&display=swap" rel="stylesheet" nonce="CKnFNUyvrdbzqWT92ZK0KQ"><link href="https://fonts.googleapis.com/css?family=Lato%3Ai%2Cbi%2C700%2C400&display=swap" rel="stylesheet" nonce="CKnFNUyvrdbzqWT92ZK0KQ"><style nonce="CKnFNUyvrdbzqWT92ZK0KQ">@media only screen and (max-width: 479px){.CGqCRe{font-size: 27.0pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.CGqCRe{font-size: 32.0pt;}}@media only screen and (min-width: 768px) and (max-width: 1279px){.CGqCRe{font-size: 36.0pt;}}@media only screen and (min-width: 1280px){.CGqCRe{font-size: 36.0pt;}}@media only screen and (max-width: 479px){.puwcIf{font-size: 20.0pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.puwcIf{font-size: 22.0pt;}}@media only screen and (min-width: 768px) and (max-width: 1279px){.puwcIf{font-size: 24.0pt;}}@media only screen and (min-width: 1280px){.puwcIf{font-size: 24.0pt;}}@media only screen and (max-width: 479px){.jgG6ef{font-size: 17.0pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.jgG6ef{font-size: 17.0pt;}}@media only screen and (min-width: 768px) and (max-width: 1279px){.jgG6ef{font-size: 18.0pt;}}@media only screen and (min-width: 1280px){.jgG6ef{font-size: 18.0pt;}}</style><link rel="stylesheet" href="https://www.gstatic.com/_/atari/_/ss/k=atari.vw.n_oW1MnzVNA.L.W.O/d=1/rs=AGEqA5mAlrfrbh96tvsx_NT3tljgWM3zYg" data-id="_cl" nonce="CKnFNUyvrdbzqWT92ZK0KQ"><script nonce="rTlwRsEFjIeOc-qeS1bacA"></script><title>OPC・学び舎</title><style jsname="ptDGoc" nonce="CKnFNUyvrdbzqWT92ZK0KQ">.M63kCb{background-color: rgba(255,255,255,1);}.OUGEr{color: rgba(33,33,33,1);}.duRjpb .OUGEr{color: rgba(34,110,147,1);}.JYVBee .OUGEr{color: rgba(34,110,147,1);}.OmQG5e .OUGEr{color: rgba(33,33,33,1);}.iwQgFb{background-color: rgba(0,0,0,0.150000006);}.ySLm4c{font-family: Lato, sans-serif;}.CbiMKe{background-color: rgba(30,108,147,1);}.qeLZfd .zfr3Q{color: rgba(33,33,33,1);}.qeLZfd .qnVSj{color: rgba(33,33,33,1);}.qeLZfd .Glwbz{color: rgba(33,33,33,1);}.qeLZfd .duRjpb{color: rgba(34,110,147,1);}.qeLZfd .qLrapd{color: rgba(34,110,147,1);}.qeLZfd .JYVBee{color: rgba(34,110,147,1);}.qeLZfd .aHM7ed{color: rgba(34,110,147,1);}.qeLZfd .OmQG5e{color: rgba(33,33,33,1);}.qeLZfd .NHD4Gf{color: rgba(33,33,33,1);}.qeLZfd .aw5Odc{color: rgba(0,101,128,1);}.qeLZfd .dhtgD:hover{color: rgba(0,0,0,1);}.qeLZfd .dhtgD:visited{color: rgba(0,101,128,1);}.qeLZfd .iwQgFb{background-color: rgba(0,0,0,0.150000006);}.qeLZfd .OUGEr{color: rgba(33,33,33,1);}.qeLZfd .duRjpb .OUGEr{color: rgba(34,110,147,1);}.qeLZfd .JYVBee .OUGEr{color: rgba(34,110,147,1);}.qeLZfd .OmQG5e .OUGEr{color: rgba(33,33,33,1);}.qeLZfd:before{background-color: rgba(242,242,242,1); display: block;}.lQAHbd .zfr3Q{color: rgba(255,255,255,1);}.lQAHbd .qnVSj{color: rgba(255,255,255,1);}.lQAHbd .Glwbz{color: rgba(255,255,255,1);}.lQAHbd .duRjpb{color: rgba(255,255,255,1);}.lQAHbd .qLrapd{color: rgba(255,255,255,1);}.lQAHbd .JYVBee{color: rgba(255,255,255,1);}.lQAHbd .aHM7ed{color: rgba(255,255,255,1);}.lQAHbd .OmQG5e{color: rgba(255,255,255,1);}.lQAHbd .NHD4Gf{color: rgba(255,255,255,1);}.lQAHbd .aw5Odc{color: rgba(255,255,255,1);}.lQAHbd .dhtgD:hover{color: rgba(255,255,255,1);}.lQAHbd .dhtgD:visited{color: rgba(255,255,255,1);}.lQAHbd .iwQgFb{background-color: rgba(255,255,255,0.150000006);}.lQAHbd .OUGEr{color: rgba(255,255,255,1);}.lQAHbd .duRjpb .OUGEr{color: rgba(255,255,255,1);}.lQAHbd .JYVBee .OUGEr{color: rgba(255,255,255,1);}.lQAHbd .OmQG5e .OUGEr{color: rgba(255,255,255,1);}.lQAHbd .CbiMKe{background-color: rgba(255,255,255,1);}.lQAHbd:before{background-color: rgba(30,108,147,1); display: block;}.cJgDec .zfr3Q{color: rgba(255,255,255,1);}.cJgDec .zfr3Q .OUGEr{color: rgba(255,255,255,1);}.cJgDec .qnVSj{color: rgba(255,255,255,1);}.cJgDec .Glwbz{color: rgba(255,255,255,1);}.cJgDec .qLrapd{color: rgba(255,255,255,1);}.cJgDec .aHM7ed{color: rgba(255,255,255,1);}.cJgDec .NHD4Gf{color: rgba(255,255,255,1);}.cJgDec .IFuOkc:before{background-color: rgba(33,33,33,1); opacity: 0; display: block;}.O13XJf{height: 340px; padding-bottom: 60px; padding-top: 60px;}.O13XJf .IFuOkc{background-color: rgba(34,110,147,1); background-image: url(https://ssl.gstatic.com/atari/images/simple-header-blended-small.png);}.O13XJf .IFuOkc:before{background-color: rgba(33,33,33,1); opacity: 0.4; display: block;}.O13XJf .zfr3Q{color: rgba(255,255,255,1);}.O13XJf .qnVSj{color: rgba(255,255,255,1);}.O13XJf .Glwbz{color: rgba(255,255,255,1);}.O13XJf .duRjpb{color: rgba(255,255,255,1);}.O13XJf .qLrapd{color: rgba(255,255,255,1);}.O13XJf .JYVBee{color: rgba(255,255,255,1);}.O13XJf .aHM7ed{color: rgba(255,255,255,1);}.O13XJf .OmQG5e{color: rgba(255,255,255,1);}.O13XJf .NHD4Gf{color: rgba(255,255,255,1);}.tpmmCb .zfr3Q{color: rgba(33,33,33,1);}.tpmmCb .zfr3Q .OUGEr{color: rgba(33,33,33,1);}.tpmmCb .qnVSj{color: rgba(33,33,33,1);}.tpmmCb .Glwbz{color: rgba(33,33,33,1);}.tpmmCb .qLrapd{color: rgba(33,33,33,1);}.tpmmCb .aHM7ed{color: rgba(33,33,33,1);}.tpmmCb .NHD4Gf{color: rgba(33,33,33,1);}.tpmmCb .IFuOkc:before{background-color: rgba(255,255,255,1); display: block;}.tpmmCb .Wew9ke{fill: rgba(33,33,33,1);}.aw5Odc{color: rgba(0,101,128,1);}.dhtgD:hover{color: rgba(0,122,147,1);}.dhtgD:active{color: rgba(0,122,147,1);}.dhtgD:visited{color: rgba(0,101,128,1);}.Zjiec{color: rgba(255,255,255,1); font-family: Lato, sans-serif; font-size: 19pt; font-weight: 300; letter-spacing: 1px; line-height: 1.3; padding-bottom: 62.5px; padding-left: 48px; padding-right: 36px; padding-top: 11.5px;}.XMyrgf{margin-top: 0px; margin-left: 48px; margin-bottom: 24px; margin-right: 24px;}.TlfmSc{color: rgba(255,255,255,1); font-family: Lato, sans-serif; font-size: 15pt; font-weight: 300; line-height: 1.333;}.Mz8gvb{color: rgba(255,255,255,1);}.zDUgLc{background-color: rgba(33,33,33,1);}.QTKDff.chg4Jd:focus{background-color: rgba(255,255,255,0.1199999973);}.YTv4We{color: rgba(178,178,178,1);}.YTv4We:hover:before{background-color: rgba(255,255,255,0.1199999973); display: block;}.YTv4We.chg4Jd:focus:before{border-color: rgba(255,255,255,0.3600000143); display: block;}.eWDljc{background-color: rgba(33,33,33,1);}.eWDljc .hDrhEe{padding-left: 8px;}.ZXW7w{color: rgba(255,255,255,1); opacity: 0.26;}.PsKE7e{color: rgba(255,255,255,1); font-family: Lato, sans-serif; font-size: 12pt; font-weight: 300;}.lhZOrc{color: rgba(73,170,212,1);}.hDrhEe:hover{color: rgba(73,170,212,1);}.M9vuGd{color: rgba(73,170,212,1); font-weight: 400;}.jgXgSe:hover{color: rgba(73,170,212,1);}.j10yRb:hover{color: rgba(0,188,212,1);}.j10yRb.chg4Jd:focus:before{border-color: rgba(255,255,255,0.3600000143); display: block;}.tCHXDc{color: rgba(255,255,255,1);}.iWs3gf.chg4Jd:focus{background-color: rgba(255,255,255,0.1199999973);}.wgxiMe{background-color: rgba(33,33,33,1);}.fOU46b .TlfmSc{color: rgba(255,255,255,1);}.fOU46b .KJll8d{background-color: rgba(255,255,255,1);}.fOU46b .Mz8gvb{color: rgba(255,255,255,1);}.fOU46b .Mz8gvb.chg4Jd:focus:before{border-color: rgba(255,255,255,1); display: block;}.fOU46b .qV4dIc{color: rgba(255,255,255,0.8700000048);}.fOU46b .jgXgSe:hover{color: rgba(255,255,255,1);}.fOU46b .M9vuGd{color: rgba(255,255,255,1);}.fOU46b .tCHXDc{color: rgba(255,255,255,0.8700000048);}.fOU46b .iWs3gf.chg4Jd:focus{background-color: rgba(255,255,255,0.1199999973);}.fOU46b .G8QRnc .Mz8gvb{color: rgba(0,0,0,0.8000000119);}.fOU46b .G8QRnc .Mz8gvb.chg4Jd:focus:before{border-color: rgba(0,0,0,0.8000000119); display: block;}.fOU46b .G8QRnc .ZXW7w{color: rgba(0,0,0,0.8000000119);}.fOU46b .G8QRnc .TlfmSc{color: rgba(0,0,0,0.8000000119);}.fOU46b .G8QRnc .KJll8d{background-color: rgba(0,0,0,0.8000000119);}.fOU46b .G8QRnc .qV4dIc{color: rgba(0,0,0,0.6399999857);}.fOU46b .G8QRnc .jgXgSe:hover{color: rgba(0,0,0,0.8199999928);}.fOU46b .G8QRnc .M9vuGd{color: rgba(0,0,0,0.8199999928);}.fOU46b .G8QRnc .tCHXDc{color: rgba(0,0,0,0.6399999857);}.fOU46b .G8QRnc .iWs3gf.chg4Jd:focus{background-color: rgba(0,0,0,0.1199999973);}.fOU46b .usN8rf .Mz8gvb{color: rgba(0,0,0,0.8000000119);}.fOU46b .usN8rf .Mz8gvb.chg4Jd:focus:before{border-color: rgba(0,0,0,0.8000000119); display: block;}.fOU46b .usN8rf .ZXW7w{color: rgba(0,0,0,0.8000000119);}.fOU46b .usN8rf .TlfmSc{color: rgba(0,0,0,0.8000000119);}.fOU46b .usN8rf .KJll8d{background-color: rgba(0,0,0,0.8000000119);}.fOU46b .usN8rf .qV4dIc{color: rgba(0,0,0,0.6399999857);}.fOU46b .usN8rf .jgXgSe:hover{color: rgba(0,0,0,0.8199999928);}.fOU46b .usN8rf .M9vuGd{color: rgba(0,0,0,0.8199999928);}.fOU46b .usN8rf .tCHXDc{color: rgba(0,0,0,0.6399999857);}.fOU46b .usN8rf .iWs3gf.chg4Jd:focus{background-color: rgba(0,0,0,0.1199999973);}.fOU46b .aCIEDd .qV4dIc{color: rgba(33,33,33,1);}.fOU46b .aCIEDd .TlfmSc{color: rgba(33,33,33,1);}.fOU46b .aCIEDd .KJll8d{background-color: rgba(33,33,33,1);}.fOU46b .aCIEDd .ZXW7w{color: rgba(33,33,33,1);}.fOU46b .aCIEDd .jgXgSe:hover{color: rgba(33,33,33,1); opacity: 0.82;}.fOU46b .aCIEDd .Mz8gvb{color: rgba(33,33,33,1);}.fOU46b .aCIEDd .tCHXDc{color: rgba(33,33,33,1);}.fOU46b .aCIEDd .iWs3gf.chg4Jd:focus{background-color: rgba(33,33,33,0.1199999973);}.fOU46b .a3ETed .qV4dIc{color: rgba(255,255,255,1);}.fOU46b .a3ETed .TlfmSc{color: rgba(255,255,255,1);}.fOU46b .a3ETed .KJll8d{background-color: rgba(255,255,255,1);}.fOU46b .a3ETed .ZXW7w{color: rgba(255,255,255,1);}.fOU46b .a3ETed .jgXgSe:hover{color: rgba(255,255,255,1); opacity: 0.82;}.fOU46b .a3ETed .Mz8gvb{color: rgba(255,255,255,1);}.fOU46b .a3ETed .tCHXDc{color: rgba(255,255,255,1);}.fOU46b .a3ETed .iWs3gf.chg4Jd:focus{background-color: rgba(255,255,255,0.1199999973);}@media only screen and (min-width: 1280px){.XeSM4.b2Iqye.fOU46b .LBrwzc .tCHXDc{color: rgba(255,255,255,0.8700000048);}}.XeSM4.b2Iqye.fOU46b .LBrwzc .iWs3gf.chg4Jd:focus{background-color: rgba(255,255,255,0.1199999973);}@media only screen and (min-width: 1280px){.KuNac.b2Iqye.fOU46b .tCHXDc{color: rgba(0,0,0,0.6399999857);}}.KuNac.b2Iqye.fOU46b .iWs3gf.chg4Jd:focus{background-color: rgba(0,0,0,0.1199999973);}.fOU46b .zDUgLc{opacity: 0;}.LBrwzc .ZXW7w{color: rgba(0,0,0,1);}.LBrwzc .KJll8d{background-color: rgba(0,0,0,1);}.GBy4H .ZXW7w{color: rgba(255,255,255,1);}.GBy4H .KJll8d{background-color: rgba(255,255,255,1);}.eBSUbc{background-color: rgba(33,33,33,1); color: rgba(0,188,212,0.6999999881);}.BFDQOb:hover{color: rgba(73,170,212,1);}.ImnMyf{background-color: rgba(255,255,255,1); color: rgba(33,33,33,1);}.Vs12Bd{background-color: rgba(242,242,242,1); color: rgba(33,33,33,1);}.S5d9Rd{background-color: rgba(30,108,147,1); color: rgba(255,255,255,1);}.zfr3Q{color: rgba(33,33,33,1); font-family: Lato, sans-serif; font-size: 11pt; font-weight: 400; line-height: 1.6667; margin-top: 12px;}.qnVSj{color: rgba(33,33,33,1);}.Glwbz{color: rgba(33,33,33,1);}.duRjpb{color: rgba(34,110,147,1); font-family: Lato, sans-serif; font-size: 34pt; font-weight: 300; letter-spacing: 0.5px; line-height: 1.2; margin-top: 30px;}.Ap4VC{margin-bottom: -30px;}.qLrapd{color: rgba(34,110,147,1);}.JYVBee{color: rgba(34,110,147,1); font-family: Lato, sans-serif; font-size: 19pt; font-weight: 400; line-height: 1.4; margin-top: 20px;}.CobnVe{margin-bottom: -20px;}.aHM7ed{color: rgba(34,110,147,1);}.OmQG5e{color: rgba(33,33,33,1); font-family: Lato, sans-serif; font-size: 15pt; font-style: normal; font-weight: 400; line-height: 1.25; margin-top: 16px;}.GV3q8e{margin-bottom: -16px;}.NHD4Gf{color: rgba(33,33,33,1);}.LB7kq .duRjpb{font-size: 64pt; letter-spacing: 2px; line-height: 1; margin-top: 40px;}.LB7kq .JYVBee{font-size: 25pt; font-weight: 300; line-height: 1.1; margin-top: 25px;}@media only screen and (max-width: 479px){.LB7kq .duRjpb{font-size: 40pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.LB7kq .duRjpb{font-size: 53pt;}}@media only screen and (max-width: 479px){.LB7kq .JYVBee{font-size: 19pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.LB7kq .JYVBee{font-size: 22pt;}}.O13XJf{height: 340px; padding-bottom: 60px; padding-top: 60px;}@media only screen and (min-width: 480px) and (max-width: 767px){.O13XJf{height: 280px; padding-bottom: 40px; padding-top: 40px;}}@media only screen and (max-width: 479px){.O13XJf{height: 250px; padding-bottom: 30px; padding-top: 30px;}}.SBrW1{height: 520px;}@media only screen and (min-width: 480px) and (max-width: 767px){.SBrW1{height: 520px;}}@media only screen and (max-width: 479px){.SBrW1{height: 400px;}}.Wew9ke{fill: rgba(255,255,255,1);}.gk8rDe{height: 180px; padding-bottom: 32px; padding-top: 60px;}.gk8rDe .zfr3Q{color: rgba(0,0,0,1);}.gk8rDe .duRjpb{color: rgba(34,110,147,1); font-size: 45pt; line-height: 1.1;}.gk8rDe .qLrapd{color: rgba(34,110,147,1);}.gk8rDe .JYVBee{color: rgba(34,110,147,1); font-size: 27pt; line-height: 1.35; margin-top: 15px;}.gk8rDe .aHM7ed{color: rgba(34,110,147,1);}.gk8rDe .OmQG5e{color: rgba(33,33,33,1);}.gk8rDe .NHD4Gf{color: rgba(33,33,33,1);}@media only screen and (max-width: 479px){.gk8rDe .duRjpb{font-size: 30pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.gk8rDe .duRjpb{font-size: 38pt;}}@media only screen and (max-width: 479px){.gk8rDe .JYVBee{font-size: 20pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.gk8rDe .JYVBee{font-size: 24pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.gk8rDe{padding-top: 45px;}}@media only screen and (max-width: 479px){.gk8rDe{padding-bottom: 0px; padding-top: 30px;}}.dhtgD{text-decoration: underline;}.JzO0Vc{background-color: rgba(33,33,33,1); font-family: Lato, sans-serif; width: 250px;}@media only screen and (min-width: 1280px){.JzO0Vc{padding-top: 48.5px;}}.TlfmSc{font-family: Lato, sans-serif; font-size: 15pt; font-weight: 300; line-height: 1.333;}.PsKE7e{font-family: Lato, sans-serif; font-size: 12pt;}.IKA38e{line-height: 1.21;}.hDrhEe{padding-bottom: 11.5px; padding-top: 11.5px;}.zDUgLc{opacity: 1;}.QmpIrf{background-color: rgba(30,108,147,1); border-color: rgba(255,255,255,1); color: rgba(255,255,255,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.xkUom{border-color: rgba(30,108,147,1); color: rgba(30,108,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.xkUom:hover{background-color: rgba(30,108,147,0.1000000015);}.KjwKmc{color: rgba(30,108,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal; line-height: normal;}.KjwKmc:hover{background-color: rgba(30,108,147,0.1000000015);}.lQAHbd .QmpIrf{background-color: rgba(255,255,255,1); border-color: rgba(34,110,147,1); color: rgba(34,110,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.lQAHbd .xkUom{border-color: rgba(242,242,242,1); color: rgba(242,242,242,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.lQAHbd .xkUom:hover{background-color: rgba(255,255,255,0.1000000015);}.lQAHbd .KjwKmc{color: rgba(242,242,242,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.lQAHbd .KjwKmc:hover{background-color: rgba(255,255,255,0.1000000015);}.lQAHbd .Mt0nFe{border-color: rgba(255,255,255,0.200000003);}.cJgDec .QmpIrf{background-color: rgba(255,255,255,1); border-color: rgba(34,110,147,1); color: rgba(34,110,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.cJgDec .xkUom{border-color: rgba(242,242,242,1); color: rgba(242,242,242,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.cJgDec .xkUom:hover{background-color: rgba(255,255,255,0.1000000015);}.cJgDec .KjwKmc{color: rgba(242,242,242,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.cJgDec .KjwKmc:hover{background-color: rgba(255,255,255,0.1000000015);}.tpmmCb .QmpIrf{background-color: rgba(255,255,255,1); border-color: rgba(34,110,147,1); color: rgba(34,110,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.tpmmCb .xkUom{border-color: rgba(30,108,147,1); color: rgba(30,108,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.tpmmCb .xkUom:hover{background-color: rgba(30,108,147,0.1000000015);}.tpmmCb .KjwKmc{color: rgba(30,108,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.tpmmCb .KjwKmc:hover{background-color: rgba(30,108,147,0.1000000015);}.gk8rDe .QmpIrf{background-color: rgba(30,108,147,1); border-color: rgba(255,255,255,1); color: rgba(255,255,255,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.gk8rDe .xkUom{border-color: rgba(30,108,147,1); color: rgba(30,108,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.gk8rDe .xkUom:hover{background-color: rgba(30,108,147,0.1000000015);}.gk8rDe .KjwKmc{color: rgba(30,108,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.gk8rDe .KjwKmc:hover{background-color: rgba(30,108,147,0.1000000015);}.O13XJf .QmpIrf{background-color: rgba(255,255,255,1); border-color: rgba(34,110,147,1); color: rgba(34,110,147,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.O13XJf .xkUom{border-color: rgba(242,242,242,1); color: rgba(242,242,242,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.O13XJf .xkUom:hover{background-color: rgba(255,255,255,0.1000000015);}.O13XJf .KjwKmc{color: rgba(242,242,242,1); font-family: Lato, sans-serif; font-size: 11pt; line-height: normal;}.O13XJf .KjwKmc:hover{background-color: rgba(255,255,255,0.1000000015);}.Y4CpGd{font-family: Lato, sans-serif; font-size: 11pt;}.CMArNe{background-color: rgba(242,242,242,1);}.LBrwzc .TlfmSc{color: rgba(0,0,0,0.8000000119);}.LBrwzc .YTv4We{color: rgba(0,0,0,0.6399999857);}.LBrwzc .YTv4We.chg4Jd:focus:before{border-color: rgba(0,0,0,0.6399999857); display: block;}.LBrwzc .Mz8gvb{color: rgba(0,0,0,0.6399999857);}.LBrwzc .tCHXDc{color: rgba(0,0,0,0.6399999857);}.LBrwzc .iWs3gf.chg4Jd:focus{background-color: rgba(0,0,0,0.1199999973);}.LBrwzc .wgxiMe{background-color: rgba(255,255,255,1);}.LBrwzc .qV4dIc{color: rgba(0,0,0,0.6399999857);}.LBrwzc .M9vuGd{color: rgba(0,0,0,0.8000000119); font-weight: bold;}.LBrwzc .Zjiec{color: rgba(0,0,0,0.8000000119);}.LBrwzc .IKA38e{color: rgba(0,0,0,0.6399999857);}.LBrwzc .lhZOrc.IKA38e{color: rgba(0,0,0,0.8000000119); font-weight: bold;}.LBrwzc .j10yRb:hover{color: rgba(0,0,0,0.8000000119);}.LBrwzc .eBSUbc{color: rgba(0,0,0,0.8000000119);}.LBrwzc .hDrhEe:hover{color: rgba(0,0,0,0.8000000119);}.LBrwzc .jgXgSe:hover{color: rgba(0,0,0,0.8000000119);}.LBrwzc .M9vuGd:hover{color: rgba(0,0,0,0.8000000119);}.LBrwzc .zDUgLc{border-bottom-color: rgba(204,204,204,1); border-bottom-width: 1px; border-bottom-style: solid;}.fOU46b .LBrwzc .M9vuGd{color: rgba(0,0,0,0.8000000119);}.fOU46b .LBrwzc .jgXgSe:hover{color: rgba(0,0,0,0.8000000119);}.fOU46b .LBrwzc .zDUgLc{opacity: 1; border-bottom-style: none;}.fOU46b .LBrwzc .tCHXDc{color: rgba(0,0,0,0.6399999857);}.fOU46b .LBrwzc .iWs3gf.chg4Jd:focus{background-color: rgba(0,0,0,0.1199999973);}.fOU46b .GBy4H .M9vuGd{color: rgba(255,255,255,1);}.fOU46b .GBy4H .jgXgSe:hover{color: rgba(255,255,255,1);}.fOU46b .GBy4H .zDUgLc{opacity: 1;}.fOU46b .GBy4H .tCHXDc{color: rgba(255,255,255,0.8700000048);}.fOU46b .GBy4H .iWs3gf.chg4Jd:focus{background-color: rgba(255,255,255,0.1199999973);}.XeSM4.G9Qloe.fOU46b .LBrwzc .tCHXDc{color: rgba(0,0,0,0.6399999857);}.XeSM4.G9Qloe.fOU46b .LBrwzc .iWs3gf.chg4Jd:focus{background-color: rgba(0,0,0,0.1199999973);}.GBy4H .lhZOrc.IKA38e{color: rgba(255,255,255,1);}.GBy4H .eBSUbc{color: rgba(255,255,255,0.8700000048);}.GBy4H .hDrhEe:hover{color: rgba(255,255,255,1);}.GBy4H .j10yRb:hover{color: rgba(255,255,255,1);}.GBy4H .YTv4We{color: rgba(255,255,255,1);}.GBy4H .YTv4We.chg4Jd:focus:before{border-color: rgba(255,255,255,1); display: block;}.GBy4H .tCHXDc{color: rgba(255,255,255,0.8700000048);}.GBy4H .iWs3gf.chg4Jd:focus{background-color: rgba(255,255,255,0.1199999973);}.GBy4H .jgXgSe:hover{color: rgba(255,255,255,1);}.GBy4H .jgXgSe:hover{color: rgba(255,255,255,1);}.GBy4H .M9vuGd{color: rgba(255,255,255,1);}.GBy4H .M9vuGd:hover{color: rgba(255,255,255,1);}.QcmuFb{padding-left: 20px;}.vDPrib{padding-left: 40px;}.TBDXjd{padding-left: 60px;}.bYeK8e{padding-left: 80px;}.CuqSDe{padding-left: 100px;}.Havqpe{padding-left: 120px;}.JvDrRe{padding-left: 140px;}.o5lrIf{padding-left: 160px;}.yOJW7c{padding-left: 180px;}.rB8cye{padding-left: 200px;}.RuayVd{padding-right: 20px;}.YzcKX{padding-right: 40px;}.reTV0b{padding-right: 60px;}.vSYeUc{padding-right: 80px;}.PxtZIe{padding-right: 100px;}.ahQMed{padding-right: 120px;}.rzhcXb{padding-right: 140px;}.PBhj0b{padding-right: 160px;}.TlN46c{padding-right: 180px;}.GEdNnc{padding-right: 200px;}.TMjjoe{font-family: Lato, sans-serif; font-size: 9pt; line-height: 1.2; margin-top: 0px;}@media only screen and (min-width: 1280px){.yxgWrb{margin-left: 250px;}}@media only screen and (max-width: 479px){.Zjiec{font-size: 15pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.Zjiec{font-size: 17pt;}}@media only screen and (max-width: 479px){.TlfmSc{font-size: 13pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.TlfmSc{font-size: 14pt;}}@media only screen and (max-width: 479px){.PsKE7e{font-size: 12pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.PsKE7e{font-size: 12pt;}}@media only screen and (max-width: 479px){.duRjpb{font-size: 24pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.duRjpb{font-size: 29pt;}}@media only screen and (max-width: 479px){.JYVBee{font-size: 15pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.JYVBee{font-size: 17pt;}}@media only screen and (max-width: 479px){.OmQG5e{font-size: 13pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.OmQG5e{font-size: 14pt;}}@media only screen and (max-width: 479px){.TlfmSc{font-size: 13pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.TlfmSc{font-size: 14pt;}}@media only screen and (max-width: 479px){.PsKE7e{font-size: 12pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.PsKE7e{font-size: 12pt;}}@media only screen and (max-width: 479px){.TMjjoe{font-size: 9pt;}}@media only screen and (min-width: 480px) and (max-width: 767px){.TMjjoe{font-size: 9pt;}}section[id="h.INITIAL_GRID.ejqdn8gr10t9"] .IFuOkc:before{opacity: 0.0;}</style><script nonce="rTlwRsEFjIeOc-qeS1bacA">_at_config = [null,"AIzaSyChg3MFqzdi1P5J-YvEyakkSA1yU7HRcDI","897606708560-a63d8ia0t9dhtpdt4i3djab2m42see7o.apps.googleusercontent.com",null,null,null,null,null,null,null,null,null,null,null,"SITES_%s",null,null,null,null,null,null,null,null,null,["AHKXmL0LUNsrKV3qNAeXouSMRGACfDj0jRL0g_wtgF3d1wZ-c5uqgEHhbkBxtIoc7CO-yAEpar4L",1,"CIqk6rWrxvsCFTODIwAd3S8NuA",1669276465009175,[5703839,5704621,5706832,5706836,5707711,5708870,5713207,5714550,5720925,5734954,5735806,5737441,5737800,5738529,5740814,5741775,5743124,5744711,5747265,5748029,5752694,5753329,5754229,5754788,5759422,5760348,5760827,5762729,5764268,5765551,5766777,5767851,5773678,5774347,5776517,5776917,5780205,14101306,14101502,14101510,14101534,49369425,49370160,49372443,49375322,49378889,49398147,49441866,49450016,49472071,49487578,49499456,49507738,49510708,49512373,49610926,49622831,49624080,49641335,49644023,49646169,49695456,49703991,49747010,49816165,49822929,49837788,49838524,49838728,49842863,49923487,49943982,49953460,49970079,50022334]],"AHL0AtK0HYDv0J77mYCyZnkcVXEFqzgpYg:1669276464980",null,null,null,0,null,null,null,null,null,null,null,null,null,"https://drive.google.com",null,null,null,null,null,null,null,null,null,0,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"v2internal","https://docs.google.com",null,null,null,null,null,null,"https://sites.google.com/new/?authuser\u003d0",null,null,null,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1,"",null,null,null,null,null,null,null,null,null,null,null,null,6,null,null,"https://accounts.google.com/o/oauth2/auth","https://accounts.google.com/o/oauth2/postmessageRelay",null,null,null,null,78,"https://sites.google.com/new/?authuser\u003d0\u0026usp\u003dviewer_footer\u0026authuser\u003d0",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,[],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"https://www.gstatic.com/atari/embeds/7925c5f8e01bacb9b4b0a3783ae0b867/intermediate-frame-minified.html",0,null,"v2beta",null,null,null,null,null,null,4,"https://accounts.google.com/o/oauth2/iframe",null,null,null,null,null,null,"https://1424566014-atari-embeds.googleusercontent.com/embeds/16cb204cf3a9d4d223a0a3fd8b0eec5d/inner-frame-minified.html",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"https://sites.google.com/view/todays-math-problem/%E3%83%9B%E3%83%BC%E3%83%A0",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,null,null,null,null,null,null,0,null,"03pk8h7y",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1,null,null,[1669276465019,"atari_2022.46-Tue-0946_RC01","488962822","0",0,1,""],null,null,null,null,0,null,null,0,null,null,null,null,null,null,null,null,20,500,"https://domains.google.com",null,0,null,null,null,null,null,null,null,null,null,null,null,0,null,null,null,0,null,null,null,null,null,1,0,0,0,0,0,0,null,0,0,0,null,0,"https://www.google.com/calendar/embed",1,0,0,1,0]; window.globals = {"enableAnalytics":true,"webPropertyId":"","showDebug":false,"hashedSiteId":"f691cab301de6d3a0d04f36722d0364343d4fc029afaa4f227b2678292d6162b","normalizedPath":"view/todays-math-problem/ホーム","pageTitle":"ホーム"}; function gapiLoaded() {if (globals.gapiLoaded == undefined) {globals.gapiLoaded = true;} else {globals.gapiLoaded();}}window.messages = []; window.addEventListener && window.addEventListener('message', function(e) {if (window.messages && e.data && e.data.magic == 'SHIC') {window.messages.push(e);}});</script><script src="https://apis.google.com/js/client.js?onload=gapiLoaded" nonce="rTlwRsEFjIeOc-qeS1bacA"></script><script nonce="rTlwRsEFjIeOc-qeS1bacA">(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var a=(this||self)._jsa||{};a._cfc=void 0;a._aeh=void 0;}).call(this);
+</script><script nonce="rTlwRsEFjIeOc-qeS1bacA">const imageUrl = 'https:\/\/lh5.googleusercontent.com\/JVS2ejSGkcRdUNUDHyE1bvSEDUaBqD5iTR6Mdo_rzDo8x45-c1FXAfYw0JFBBdVygCEzBKOVPT7xmge44sySWUPyr8J2gknnrPwBU-Mom2ZKC_k-eJGGlutPF0FBlp8c6bFauiv3dMW4O5lduq6sVg\x3dw16383';
+      function bgImgLoaded() {
+        if (!globals.headerBgImgLoaded) {
+          globals.headerBgImgLoaded = new Date().getTime();
+        } else {
+          globals.headerBgImgLoaded();
+        }
+      }
+      if (imageUrl) {
+        const img = new Image();
+        img.src = imageUrl;
+        img.onload = bgImgLoaded;
+        globals.headerBgImgExists = true;
+      } else {
+        globals.headerBgImgExists = false;
+      }
+      </script></head><body dir="ltr" itemscope itemtype="http://schema.org/WebPage" id="yDmH0d" css="yDmH0d"><div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;GvneHb:og1FDd;vbaUQc:uAM5ec;"><div jscontroller="X4BaPc" jsaction="rcuQ6b:WYd;o6xM5b:Pg9eo;HuL2Hd:mHeCvf;VMhF5:FFYy5e;sk3Qmb:HI1Mdd;JIbuQc:rSzFEd(z2EeY),aSaF6e(ilzYPe);"><div jscontroller="o1L5Wb" data-sitename="todays-math-problem" data-universe="1" jsmodel="fNFZH" jsaction="Pe9H6d:cZFEp;WMZaJ:VsGN3;hJluRd:UADL7b;zuqEgd:HI9w0;tr6QDd:Y8aXB;MxH79b:xDkBfb;JIbuQc:SPXMTb(uxAMZ);" jsname="G0jgYd"><div jsname="gYwusb" class="p9b27"></div><div jscontroller="RrXLpc" jsname="XeeWQc" role="banner" jsaction="keydown:uiKYid(OH0EC);rcuQ6b:WYd;zuqEgd:ufqpf;JIbuQc:XfTnxb(lfEfFf),AlTiYc(GeGHKb),AlTiYc(m1xNUe),zZlNMe(pZn8Oc);YqO5N:ELcyfe;"><div jsname="bF1uUb" class="BuY5Fd" jsaction="click:xVuwSc;"></div><div jsname="MVsrn" class="TbNlJb "><div role="button" class="U26fgb mUbCce fKz7Od h3nfre M9Bg4d" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;" jsshadow jsname="GeGHKb" aria-label="サイトに戻る" aria-disabled="false" tabindex="0" data-tooltip="サイトに戻る" data-tooltip-vertical-offset="-12" data-tooltip-horizontal-offset="0"><div class="VTBa7b MbhUzd" jsname="ksKsZd"></div><span jsslot class="xjKiLb"><span class="Ce1Y1c" style="top: -12px"><svg class="V4YR2c" viewBox="0 0 24 24" focusable="false"><path d="M0 0h24v24H0z" fill="none"/><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg></span></span></div><div class="E2UJ5" jsname="M6JdT"><div class="rFrNMe b7AJhc zKHdkd" jscontroller="pxq3x" jsaction="clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV" jsshadow jsname="OH0EC" aria-expanded="true"><div class="aCsJod oJeWuf"><div class="aXBtI I0VJ4d Wic03c"><span jsslot class="A37UZe qgcB3c iHd5yb"><div role="button" class="U26fgb mUbCce fKz7Od i3PoXe M9Bg4d" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;" jsshadow jsname="lfEfFf" aria-label="検索" aria-disabled="false" tabindex="0" data-tooltip="検索" data-tooltip-vertical-offset="-12" data-tooltip-horizontal-offset="0"><div class="VTBa7b MbhUzd" jsname="ksKsZd"></div><span jsslot class="xjKiLb"><span class="Ce1Y1c" style="top: -12px"><svg class="vu8Pwe" viewBox="0 0 24 24" focusable="false"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M0 0h24v24H0z" fill="none"/></svg></span></span></div><div class="EmVfjc SKShhf" data-loadingmessage="読み込んでいます…" jscontroller="qAKInc" jsaction="animationend:kWijWc;dyRcpb:dyRcpb" jsname="aZ2wEe"><div class="Cg7hO" aria-live="assertive" jsname="vyyg5"></div><div jsname="Hxlbvc" class="xu46lf"><div class="ir3uv uWlRce co39ub"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div><div class="ir3uv GFoASc Cn087"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div><div class="ir3uv WpeOqd hfsr6b"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div><div class="ir3uv rHV3jf EjXFBf"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div></div></div><div role="button" class="U26fgb mUbCce fKz7Od JyJRXe M9Bg4d" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;" jsshadow jsname="m1xNUe" aria-label="サイトに戻る" aria-disabled="false" tabindex="0" data-tooltip="サイトに戻る" data-tooltip-vertical-offset="-12" data-tooltip-horizontal-offset="0"><div class="VTBa7b MbhUzd" jsname="ksKsZd"></div><span jsslot class="xjKiLb"><span class="Ce1Y1c" style="top: -12px"><svg class="V4YR2c" viewBox="0 0 24 24" focusable="false"><path d="M0 0h24v24H0z" fill="none"/><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg></span></span></div></span><div class="Xb9hP"><input type="search" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-label="このサイトを検索" value="" autofocus role="combobox" data-initial-value=""/><div jsname="LwH6nd" class="ndJi5d snByac" aria-hidden="true">このサイトを検索</div></div><span jsslot class="A37UZe sxyYjd MQL3Ob"><div role="button" class="U26fgb mUbCce fKz7Od Kk06A M9Bg4d" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;" jsshadow jsname="pZn8Oc" aria-label="検索をクリア" aria-disabled="false" tabindex="0" data-tooltip="検索をクリア" data-tooltip-vertical-offset="-12" data-tooltip-horizontal-offset="0"><div class="VTBa7b MbhUzd" jsname="ksKsZd"></div><span jsslot class="xjKiLb"><span class="Ce1Y1c" style="top: -12px"><svg class="fAUEUd" viewBox="0 0 24 24" focusable="false"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></span></span></div></span><div class="i9lrp mIZh1c"></div><div jsname="XmnwAc" class="OabDMe cXrdqd"></div></div></div><div class="LXRPh"><div jsname="ty6ygf" class="ovnfwe Is7Fhb"></div></div></div></div></div></div></div><div jsname="tiN4bf"><style nonce="CKnFNUyvrdbzqWT92ZK0KQ">.rrJNTc{opacity: 0;}.bKy5e{pointer-events: none; position: absolute; top: 0;}</style><div class="bKy5e"><div class="rrJNTc" tabindex="-1"><div class="VfPpkd-dgl2Hf-ppHlrf-sM5MNb" data-is-touch-wrapper="true"><button class="VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf LjDxcd XhPA0b LQeN7 WsSUlf jz7fPb" jscontroller="soHxf" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc; touchcancel:JMtRjd; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;mlnRJb:fLiPzd;" data-idom-class="LjDxcd XhPA0b LQeN7 WsSUlf jz7fPb" jsname="z2EeY" tabindex="0"><div class="VfPpkd-Jh9lGc"></div><div class="VfPpkd-J1Ukfc-LhBDec"></div><div class="VfPpkd-RLmnJb"></div><span jsname="V67aGc" class="VfPpkd-vQzf8d">メイン コンテンツにスキップ</span></button></div><div class="VfPpkd-dgl2Hf-ppHlrf-sM5MNb" data-is-touch-wrapper="true"><button class="VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf LjDxcd XhPA0b LQeN7 WsSUlf br90J" jscontroller="soHxf" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc; touchcancel:JMtRjd; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;mlnRJb:fLiPzd;" data-idom-class="LjDxcd XhPA0b LQeN7 WsSUlf br90J" jsname="ilzYPe" tabindex="0"><div class="VfPpkd-Jh9lGc"></div><div class="VfPpkd-J1Ukfc-LhBDec"></div><div class="VfPpkd-RLmnJb"></div><span jsname="V67aGc" class="VfPpkd-vQzf8d">ナビゲーションにスキップ</span></button></div></div></div><div class="M63kCb N63NQ"></div><div class="QZ3zWd"><div class="fktJzd AKpWA vS6Uxe fOU46b yMcSQd Ly6Unf G9Qloe XeSM4 XxIgdb" jsname="UzWXSb" data-uses-custom-theme="false" data-legacy-theme-name="QualityBasics" data-legacy-theme-font-kit="Light" data-legacy-theme-color-kit="Blue" jscontroller="Md9ENb" jsaction="gsiSmd:Ffcznf;yj5fUd:cpPetb;HNXL3:q0Vyke;e2SXKd:IPDu5e;BdXpgd:nhk7K;rcuQ6b:WYd;"><header id="atIdViewHeader"><div class="BbxBP LBrwzc K5Zlne" jsname="WA9qLc" jscontroller="RQOkef" jsaction="rcuQ6b:JdcaS;MxH79b:JdcaS;VbOlFf:ywL4Jf;FaOgy:ywL4Jf; keydown:Hq2uPe; wheel:Ut4Ahc;" data-top-navigation="true" data-is-preview="false"><div class="DXsoRd YTv4We oNsfjf" style="background-color:rgb(255, 255, 255);" role="button" tabindex="0" jsaction="click:LUvzV" jsname="z4Tpl" id="s9iPrd" aria-haspopup="true" aria-controls="yuynLe" aria-expanded="false"><svg class="wFCWne" viewBox="0 0 24 24" stroke="currentColor" jsname="B1n9ub" focusable="false"><g transform="translate(12,12)"><path class="hlJH0" d="M-9 -5 L9 -5" fill="none" stroke-width="2"/><path class="HBu6N" d="M-9 0 L9 0" fill="none" stroke-width="2"/><path class="cLAGQe" d="M-9 5 L9 5" fill="none" stroke-width="2"/></g></svg></div><nav class="JzO0Vc" style="background-color:rgb(255, 255, 255);" jsname="ihoMLd" role="navigation" tabindex="-1" id="yuynLe" jsaction="transitionend:UD2r5"><a class="Zjiec oNsfjf" href="/view/todays-math-problem/ホーム"><span>OPC・学び舎</span></a><ul class="jYxBte Fpy8Db" role="navigation" tabindex="-1"><li jsname="ibnC6b" data-nav-level="1"><div class="PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf lhZOrc" aria-current="true"><div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb dk90Ob hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-selected="true" href="/view/todays-math-problem/ホーム" data-url="/view/todays-math-problem/ホーム" data-type="1" data-level="1">ホーム</a></div></div></li><li jsname="ibnC6b" data-nav-level="1"><div class="PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf"><div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb dk90Ob hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/mathPortal" data-url="/view/todays-math-problem/mathPortal" data-type="1" data-level="1">数学まとめサイトのまとめ</a></div></div></li><li jsname="ibnC6b" data-nav-level="1"><div class="PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf"><div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb dk90Ob hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/Contribution" data-url="/view/todays-math-problem/Contribution" data-type="1" data-level="1">皆様からの寄稿</a></div></div></li><li jsname="ibnC6b" data-nav-level="1"><div class="PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf"><div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb dk90Ob hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/convertlatex" data-url="/view/todays-math-problem/convertlatex" data-type="1" data-level="1">ConvertLaTeX</a></div></div></li></ul></nav><div class="VLoccc K5Zlne QDWEj U8eYrb" style="background-color:rgb(255, 255, 255);" jsname="rtFGi"><div class="Pvc6xe"><div jsname="I8J07e" class="TlfmSc YSH9J"><a class="GAuSPc" jsname="jIujaf" href="/view/todays-math-problem/ホーム"><span class="QTKDff">OPC・学び舎</span></a></div><nav class="plFg0c" jscontroller="HXO1uc" jsaction="rcuQ6b:rcuQ6b;MxH79b:CfS0pe;" id="WDxLfe" data-is-preview="false" style="visibility: hidden;" role="navigation" tabindex="-1"><ul jsname="waIgnc" class="K1Ci7d oXBWEc jYxBte"><li jsname="ibnC6b" data-nav-level="1" class="VsJjtf"><div class="PsKE7e qV4dIc Qrrb5 YSH9J M9vuGd" aria-current="true"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-selected="true" href="/view/todays-math-problem/ホーム" data-url="/view/todays-math-problem/ホーム" data-type="1" data-level="1">ホーム</a></div></div><div class="rgLkl"></div></li><li jsname="ibnC6b" data-nav-level="1" class="VsJjtf"><div class="PsKE7e qV4dIc Qrrb5 YSH9J"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/mathPortal" data-url="/view/todays-math-problem/mathPortal" data-type="1" data-level="1">数学まとめサイトのまとめ</a></div></div><div class="rgLkl"></div></li><li jsname="ibnC6b" data-nav-level="1" class="VsJjtf"><div class="PsKE7e qV4dIc Qrrb5 YSH9J"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/Contribution" data-url="/view/todays-math-problem/Contribution" data-type="1" data-level="1">皆様からの寄稿</a></div></div><div class="rgLkl"></div></li><li jsname="ibnC6b" data-nav-level="1" class="VsJjtf"><div class="PsKE7e qV4dIc Qrrb5 YSH9J"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/convertlatex" data-url="/view/todays-math-problem/convertlatex" data-type="1" data-level="1">ConvertLaTeX</a></div></div><div class="rgLkl"></div></li><li jsname="ibnC6b" data-nav-level="1" class="VsJjtf ZmrVpf oXBWEc" more-menu-item jsaction="mouseenter:Vx8Jlb; mouseleave:ysDRUd"><div class="PsKE7e qV4dIc Qrrb5 YSH9J"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" data-level="1">その他</a><div class="mBHtvb u5fiyc" role="presentation" title="展開 / 折りたたむ" jsaction="click:oESVTe" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false"><g transform="translate(9.7,12) rotate(45)"><path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"/></g><g transform="translate(14.3,12) rotate(-45)"><path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"/></g></svg></div></div></div><div class="oGuwee eWDljc RPRy1e Mkt3Tc" style="background-color:rgb(255, 255, 255); display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group"><ul class="VcS63b"><li jsname="ibnC6b" data-nav-level="2" class="ijMPi ZmrVpf" in-more-item><div class="PsKE7e IKA38e oNsfjf lhZOrc" aria-current="true"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-selected="true" href="/view/todays-math-problem/ホーム" data-url="/view/todays-math-problem/ホーム" data-type="1" data-in-more-submenu="true" data-level="2">ホーム</a></div></div></li><li jsname="ibnC6b" data-nav-level="2" class="ijMPi ZmrVpf" in-more-item><div class="PsKE7e IKA38e oNsfjf"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/mathPortal" data-url="/view/todays-math-problem/mathPortal" data-type="1" data-in-more-submenu="true" data-level="2">数学まとめサイトのまとめ</a></div></div></li><li jsname="ibnC6b" data-nav-level="2" class="ijMPi ZmrVpf" in-more-item><div class="PsKE7e IKA38e oNsfjf"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/Contribution" data-url="/view/todays-math-problem/Contribution" data-type="1" data-in-more-submenu="true" data-level="2">皆様からの寄稿</a></div></div></li><li jsname="ibnC6b" data-nav-level="2" class="ijMPi ZmrVpf" in-more-item><div class="PsKE7e IKA38e oNsfjf"><div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="/view/todays-math-problem/convertlatex" data-url="/view/todays-math-problem/convertlatex" data-type="1" data-in-more-submenu="true" data-level="2">ConvertLaTeX</a></div></div></li></ul></div></li></ul></nav><div jscontroller="gK4msf" class="RBEWZc" jsname="h04Zod" jsaction="rcuQ6b:WYd;JIbuQc:AT95Ub;VbOlFf:HgE5D;FaOgy:HgE5D;MxH79b:JdcaS;" data-side-navigation="false"><div role="button" class="U26fgb mUbCce fKz7Od iWs3gf Wdnjke M9Bg4d" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;" jsshadow jsname="R9oOZd" aria-label="検索バーを開く" aria-disabled="false" tabindex="0" data-tooltip="検索バーを開く" aria-expanded="false" data-tooltip-vertical-offset="-12" data-tooltip-horizontal-offset="0"><div class="VTBa7b MbhUzd" jsname="ksKsZd"></div><span jsslot class="xjKiLb"><span class="Ce1Y1c" style="top: -12px"><svg class="vu8Pwe tCHXDc YSH9J" viewBox="0 0 24 24" focusable="false"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M0 0h24v24H0z" fill="none"/></svg></span></span></div></div></div><div jsname="mADGA" class="zDUgLc" style="background-color:rgb(255, 255, 255);"></div></div><div class="TxnWlb" jsname="BDdyze" jsaction="click:LUvzV"></div></div></header><div role="main" tabindex="-1" class="UtePc RCETm" dir="ltr"><section id="h.INITIAL_GRID.ejqdn8gr10t9" class="yaqOZd LB7kq cJgDec nyKByd O13XJf" style=""><div class="Nu95r"><div class="IFuOkc" style="background-size: cover; background-position: center center; background-image: url(https://lh5.googleusercontent.com/JVS2ejSGkcRdUNUDHyE1bvSEDUaBqD5iTR6Mdo_rzDo8x45-c1FXAfYw0JFBBdVygCEzBKOVPT7xmge44sySWUPyr8J2gknnrPwBU-Mom2ZKC_k-eJGGlutPF0FBlp8c6bFauiv3dMW4O5lduq6sVg=w16383);" jsname="LQX2Vd"></div></div><div class="mYVXT"><div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1"><div class="hJDwNd-AhqUyc-R6PoUb Ft7HRd-AhqUyc-R6PoUb JNdkSc SQVYQc L6cTce-purZT L6cTce-pSzOP"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"></div></div></div><div class="hJDwNd-AhqUyc-EehZO Ft7HRd-AhqUyc-EehZO purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"><div class="oKdM2c ZZyype Kzv0Me"><div id="h.INITIAL_GRID.l2md4muzqxcq" class="hJDwNd-AhqUyc-EehZO Ft7HRd-AhqUyc-EehZO jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb JYTMs"><div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb Depvyb baZpAe lkHyyc"><h1 id="h.np1xeahq6zmn" dir="ltr" class="CDt4Ke zfr3Q duRjpb" style="text-align: center;"><span class=" CGqCRe" style="font-family: &#39;Lato&#39;; vertical-align: baseline;"><strong>ホーム<br></strong></span><span class=" puwcIf" style="font-family: &#39;Lato&#39;; vertical-align: baseline;"><strong>（ランダム数学問題）</strong></span></h1></div></div></div></div></div></div></div><div class="hJDwNd-AhqUyc-R6PoUb Ft7HRd-AhqUyc-R6PoUb JNdkSc SQVYQc L6cTce-purZT L6cTce-pSzOP"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"></div></div></div></div></div></section><section id="h.7afb5985d056c4fc_5" class="yaqOZd WxWicb" style=""><div class="IFuOkc"></div><div class="mYVXT"><div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1"><div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"><div class="oKdM2c ZZyype Kzv0Me"><div id="h.7afb5985d056c4fc_8" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb"><div class="jXK9ad-SmKAyb"><div class="tyJCtd baZpAe"><div class="iwQgFb" role="presentation"></div></div></div></div></div></div></div></div></div></div></section><section id="h.7821423711dff868_12" class="yaqOZd" style=""><div class="IFuOkc"></div><div class="mYVXT"><div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1"><div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc yYI8W HQwdzb"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"><div class="oKdM2c ZZyype Kzv0Me"><div id="h.7821423711dff868_10" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb JYTMs"><div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb Depvyb baZpAe"><p dir="ltr" class="CDt4Ke zfr3Q" style="text-align: center;"><span class=" jgG6ef" style="font-family: &#39;Lato&#39;; vertical-align: baseline;"><strong>問題はこちら！</strong></span></p></div></div></div></div><div class="oKdM2c ZZyype"><div id="h.7afb5985d056c4fc_22" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec wHaque g5GTcb"><div class="jXK9ad-SmKAyb"><div class="tyJCtd OWlOyc baZpAe"><div jscontroller="VYKRW" jsaction="rcuQ6b:rcuQ6b;"><div class="WIdY2d M1aSXe"><div jsname="WXxXjd" style="padding-top: 83.3819241983%"></div><div class="YMEQtf"><div jsname="jkaScf" jscontroller="szRU7e" class="w536ob" data-enable-interaction="true" data-url="https://979993998-atari-embeds.googleusercontent.com/embeds/16cb204cf3a9d4d223a0a3fd8b0eec5d/inner-frame-minified.html" data-code="&lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js&quot; type=&quot;text/javascript&quot;&gt;
+    MathJax.Hub.Config({
+        HTML: [&quot;input/TeX&quot;, &quot;output/HTML-CSS&quot;],
+        TeX: {
+            extensions: [&quot;AMSmath.js&quot;, &quot;AMSsymbols.js&quot;],
+            equationNumbers: {
+                autoNumber: &quot;AMS&quot;
+            }
+        },
+        extensions: [&quot;tex2jax.js&quot;],
+        jax: [&quot;input/TeX&quot;, &quot;output/HTML-CSS&quot;],
+        tex2jax: {
+            inlineMath: [
+                [&#39;$&#39;, &#39;$&#39;],
+                [&quot;\\\\(&quot;, &quot;\\\\)&quot;]
+            ],
+            displayMath: [
+                [&#39;$$&#39;, &#39;$$&#39;],
+                [&quot;\\\\[&quot;, &quot;\\\\]&quot;]
+            ],
+            processEscapes: true
+        },
+        &quot;HTML-CSS&quot;: {
+            availableFonts: [&quot;TeX&quot;],
+            linebreaks: {
+                automatic: true
+            }
+        }
+    });
+&lt;/script&gt;
+
+&lt;p id=&quot;moji&quot;&gt;
+    &lt;script&gt;
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * max);
+        }
+        var Q_DB_header = [&#39;SEQ&#39;, &#39;Q_lead&#39;, &#39;Q_01&#39;, &#39;Q_02&#39;, &#39;Q_03&#39;, &#39;Q_04&#39;, &#39;Q_05&#39;, &#39;Q_06&#39;, &#39;Ans&#39;];
+
+        var Q_DB = [{
+            SEQ: `#001`,
+            Q_lead: `&lt;p&gt;【2019年　東京大学（前期）】&lt;br&gt;&lt;/p&gt; &lt;p&gt;次の定積分を計算せよ。&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;$$ \\int_{0}^{1} \\left( x^2 + \\dfrac{x}{ \\sqrt{1 + x^2} } \\right) \\left( 1 + \\dfrac{x}{ (1 + x^2) \\sqrt{1 + x^2} } \\right) ~dx $$&lt;/p&gt;`,
+            Ans: `&lt;p&gt;\\begin{eqnarray*}
+            f(x) &amp;=&amp; \\left( x^2 + \\dfrac{x}{ \\sqrt{1 + x^2} } \\right) \\left( 1 + \\dfrac{x}{ (1 + x^2) \\sqrt{1 + x^2} } \\right) \\\\
+                        &amp;=&amp; x^2 + \\frac{x}{\\sqrt{1+x^2}} + \\frac{x^3}{\\left( 1 + x^2 \\right)\\sqrt{1+x^2}} + \\frac{x^2}{\\left(1 + x^2 \\right)^2} \\\\
+                        &amp;=&amp; x^2 + \\frac{x}{\\sqrt{1+x^2}} + \\frac{x(1+x^2)-x}{\\left( 1 + x^2 \\right)\\sqrt{1+x^2}} + \\frac{x^2}{\\left(1 + x^2 \\right)^2} \\\\
+                        &amp;=&amp; x^2 + \\frac{2x}{\\sqrt{1+x^2}} - \\frac{x}{\\left( \\sqrt{1+x^2} \\right)^3} + \\frac{x^2}{\\left(1 + x^2 \\right)^2}
+            \\end{eqnarray*}
+                 とおく。さらに
+                        \\begin{eqnarray*}
+                            a &amp;=&amp; \\int_0^1 x^2~dx~~, \\hspace{2mm} b = \\int_0^1 \\frac{2x}{\\sqrt{1+x^2}} ~dx ~~,\\hspace{2mm} 
+                        c = - \\int_0^1 \\frac{x}{\\left( \\sqrt{1+x^2} \\right)^3}~~,\\hspace{2mm} d = \\int_0^1 \\frac{x^2}{\\left(1 + x^2 \\right)^2} ~dx
+                    \\end{eqnarray*}
+            とおき，$a,~b,~c,~d$をそれぞれ求める。&lt;/p&gt; &lt;p&gt;        \\begin{eqnarray*}
+                            a &amp;=&amp; \\left[ \\frac{1}{3} x^3 \\right]_0^1 = \\frac{1}{3} \\\\
+                            b &amp;=&amp; 2\\int_0^1 \\left( \\sqrt{1+x^2} \\right)&#39; ~dx = 2\\left[ \\sqrt{1+x^2} \\right]_0^1 = 2\\sqrt{2} - 2 \\\\
+                        c &amp;=&amp; \\int_0^1 \\left( \\frac{1}{\\sqrt{1+x^2}} \\right)&#39; ~dx = \\left[ \\frac{1}{\\sqrt{1+x^2}} \\right]_0^1 = \\frac{1}{\\sqrt{2}} - 1
+                    \\end{eqnarray*}
+                であり，$x=\\tan \\theta$とおくと，
+            &lt;table border=&#39;1&#39; bordercolor=&#39;black&#39; align=&#39;center&#39;&gt;
+                &lt;tr&gt;
+                    &lt;td&gt; $~x~$ &lt;/td&gt;
+                    &lt;td&gt; $~0 \\to 1~$ &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt; $~\\theta~$ &lt;/td&gt;
+                    &lt;td&gt; $~\\displaystyle 0 \\to \\frac{\\pi}{4}~$ &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;p style=&#39;text-align:center&#39;&gt;
+                $\\displaystyle dx=\\frac{1}{\\cos^2 \\theta} ~d\\theta = \\left(1+\\tan^2 \\theta \\right) ~d\\theta $
+            &lt;/p&gt;
+            であるから，
+            \\begin{eqnarray*}
+            d &amp;=&amp; \\int_0^{\\frac{\\pi}{4}}  \\frac{\\tan^2 \\theta}{\\left(1 + \\tan^2  \\theta \\right)^2} \\left(1+\\tan^2 \\theta \\right) ~d\\theta\\\\
+                        &amp;=&amp; \\int_0^{\\frac{\\pi}{4}}  \\frac{\\tan^2 \\theta}{1 + \\tan^2  \\theta} ~d\\theta\\\\
+                        &amp;=&amp; \\int_0^{\\frac{\\pi}{4}}  \\sin^2 \\theta ~d\\theta \\\\
+                        &amp;=&amp; \\int_0^{\\frac{\\pi}{4}}  \\frac{1 - \\cos 2 \\theta}{2} ~d\\theta \\\\
+                        &amp;=&amp; \\left[ \\frac{1}{2}\\theta - \\frac{1}{4} \\sin 2 \\theta \\right]_0^{\\frac{\\pi}{4}} \\\\
+                        &amp;=&amp; \\frac{\\pi}{8} - \\frac{1}{4}
+            \\end{eqnarray*}
+                である。よって，求める定積分は
+            \\begin{eqnarray*}
+            \\int_0^1 f(x)~dx &amp;=&amp; \\frac{1}{3} + 2\\sqrt{2} - 2 +  \\frac{1}{\\sqrt{2}} - 1 + \\frac{\\pi}{8} - \\frac{1}{4} \\\\
+                        &amp;=&amp; {\\bf \\frac{\\boldsymbol \\pi}{8} + \\frac{5\\sqrt{2}}{2} - \\frac{35}{12}}
+            \\end{eqnarray*}
+                である。&lt;/p&gt;`
+        }, {
+            SEQ: `#002`,
+            Q_lead: `&lt;p&gt;$\\mathbb{N,~Z,~Q,~R,~C}$ はそれぞれ自然数，整数，有理数，実数，複素数全体の集合を表すものとする。(1) 〜 (5) に関しては，空欄にあてはまるものとして最も適切なものを&lt;b&gt;&lt;u&gt;（選択肢1）&lt;/u&gt;&lt;/b&gt;の中から 1 つ選べ。ただし，同じ選択肢を何度用いてもよいものとする。(6) に関しては①，②の問いに答えよ。&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;(1) $\\sqrt{3}~[\\hspace{10mm}]~\\mathbb{Q}$ である。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(2) $\\mathbb{N} ~[\\hspace{10mm}]~ \\mathbb{Z}$ である。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(3) $\\displaystyle \\frac{\\sqrt{4}}{2} ~[\\hspace{10mm}]~ \\mathbb{Q}$ である。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(4) $\\mathbb{Z} ~[\\hspace{10mm}]~ \\mathbb{Q}$ である。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(5) $\\mathbb{C} ~[\\hspace{10mm}]~ \\mathbb{R}$ である。&lt;br /&gt;&lt;/p&gt;`,
+            Q_02: `&lt;p&gt;(6)&lt;br /&gt;&lt;/p&gt; &lt;p&gt;①　無理数の定義を答えよ。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;②　$A$ を無理数全体の集合とする。また，集合 $X,~ Y$ について，$X$ が $Y$ の部分集合であるとき，集合 $Y \\cap \\overline{X}$ を $Y-X$ で表すとする。ただし，$\\overline{X}$ は集合 $X$ の補集合を表す。①で述べた定義にもとづくと，$$A = [\\hspace{5mm} \\mbox{ア} \\hspace{5mm}] - [\\hspace{5mm}\\mbox{イ}\\hspace{5mm}] $$である。空欄ア，イに当てはまる最も適切なものを&lt;b&gt;&lt;u&gt;（選択肢2）&lt;/u&gt;&lt;/b&gt;の中から 1 つ選べ。1つずつ選べ。&lt;/p&gt;`,
+            Q_03: `&lt;p&gt;&lt;b&gt;&lt;u&gt;（選択肢1）&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt; &lt;p&gt;$({\\rm a})\\in \\hspace{4mm} ({\\rm b})\\notin \\hspace{4mm} ({\\rm c}) \\ni \\hspace{4mm} ({\\rm d})\\ni \\hspace{-9pt}/ \\hspace{4mm} ({\\rm e})= \\hspace{4mm} ({\\rm f}) \\subset \\hspace{4mm} ({\\rm g}) \\supset$&lt;/p&gt;`,
+            Q_04: `&lt;p&gt;&lt;b&gt;&lt;u&gt;（選択肢2）&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt; &lt;p&gt;$({\\rm n})~ \\mathbb{N} \\hspace{4mm} ({\\rm z})~ \\mathbb{Z} \\hspace{4mm} ({\\rm q})~&amp;nbsp; \\mathbb{Q} \\hspace{4mm} ({\\rm r})~ \\mathbb{R} \\hspace{4mm} ({\\rm c})~\\mathbb{C}$&lt;br /&gt;&lt;/p&gt;`,
+            Ans: `&lt;p&gt;(1) $\\sqrt{3}$ は無理数であるから $\\sqrt{3} \\notin \\mathbb{Q}$ である．よって，答えは (b) ．&lt;/p&gt; &lt;p&gt;(2) すべての自然数 $n$ について，$n \\in \\mathbb{Z}$ が成り立つから，$\\mathbb{N}$ は $\\mathbb{Z}$ の部分集合，すなわち $\\mathbb{N} \\subset \\mathbb{Z}$ である．よって，答えは (f) ．&lt;/p&gt; &lt;p&gt;(3) $\\displaystyle \\frac{\\sqrt{4}}{2} = 2 \\left( = \\frac{2}{1} \\right)$ より，$ \\displaystyle \\frac{\\sqrt{4}}{2} \\in \\mathbb{Q}$ である．よって，答えは (a) ．&lt;/p&gt; &lt;p&gt;
+            (4) すべての整数 $n$ について，$n \\in \\mathbb{Q}$ が成り立つから，$\\mathbb{Z}$ は $\\mathbb{Q}$ の部分集合，すなわち $\\mathbb{Z} \\subset \\mathbb{Q}$ である．よって，答えは (f) ．&lt;/p&gt; &lt;p&gt;(5) すべての実数 $x$ について，$x \\in \\mathbb{C}$ が成り立つから，$\\mathbb{R}$ は $\\mathbb{C}$ の部分集合，すなわち $\\mathbb{C} \\supset \\mathbb{R}$ である．よって，答えは (g) ．&lt;/p&gt; &lt;p&gt;
+            (6)
+            ①　無理数は実数のうち，有理数でない数である．&lt;/p&gt; &lt;p&gt;②　①の定義より，集合 $A$ は集合 $\\mathbb{R}$ から $\\mathbb{Q}$ を除いたものであるから，
+            \\[ A =&amp;nbsp; \\mathbb{R} -&amp;nbsp; \\mathbb{Q} \\]
+            よって，答えは ア：(r)，イ：(q) ．&lt;/p&gt;`
+        }, {
+            SEQ: `#003`,
+            Q_lead: `&lt;p&gt;【2010年　順天堂大学・医学部　改】&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;(1)　有理数の定義を与えよ。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(2)　有理数の和・積はまた有理数であることを示せ。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(3)　命題の逆の裏を何というか。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(4)　$\\sqrt{6}$ の定義を述べよ。&lt;br /&gt;&lt;/p&gt; &lt;p&gt;(5)　「自然数 $a$ が素数 $p$ の倍数であり，自然数 $b,c$ によって， $a=bc$ と表されるならば，$b$ または $c$ の少なくとも一方は $p$ の倍数である」という事実が知られている。この事実を用いて，$\\sqrt{6}$ が無理数であることを背理法で証明せよ。&lt;br /&gt;&lt;/p&gt;`,
+            Ans: `&lt;p&gt;&lt;p&gt;
+                &lt;h1&gt;(1)&lt;/h1&gt;
+                整数 $m$ と 0 でない整数 $n$ を用いて，$\\displaystyle \\frac{m}{n}$ と表される数のことを有理数という。&lt;/p&gt; &lt;p&gt;&lt;/p&gt;
+
+            &lt;p&gt;
+                &lt;h1&gt;(2)&lt;/h1&gt;
+                2つの有理数 $p,~q$ を，2整数 $p_1,~q_1$ と0でない2整数 $p_2,~q_2$ を用いて $$ p=\\frac{p_1}{p_2},~~q = \\frac{q_1}{q_2} $$ とおく。 \\begin{eqnarray*} p+q &amp;=&amp; \\frac{p_1}{p_2} + \\frac{q_1}{q_2} \\\\ &amp;=&amp; \\frac{p_1 q_2 + q_1 p_2}{p_2 q_2} \\end{eqnarray*} であり，$p_2 q_2$ は 0 でない整数，$p_1
+                q_2 + q_1 p_2$ は整数であるから，$p+q$ は有理数である。&lt;br&gt; さらに， \\begin{eqnarray*} pq = \\frac{p_1 q_1}{p_2 q_2} \\end{eqnarray*} であり，$p_1q_1$ は整数であるから，$pq$ は有理数である。 よって，有理数の和・積もまた有理数である．&lt;/p&gt; &lt;p&gt;&lt;/p&gt;
+
+            &lt;p&gt;
+                &lt;h1&gt;(3)&lt;/h1&gt;
+                命題の逆の裏は「対偶」である．&lt;/p&gt; &lt;p&gt;&lt;/p&gt;
+
+            &lt;p&gt;
+                &lt;h1&gt;(4)&lt;/h1&gt;
+                2乗すると $6$ となる2つの実数のうち，正の方が $\\sqrt{6}$ である。&lt;/p&gt; &lt;p&gt;&lt;/p&gt;
+            &lt;p&gt;
+                （注）&lt;br&gt; 2乗すると $a~(&gt;0)$ となる2つの実数を「$a$ の平方根」といいます。&lt;br&gt; したがって，「$6$ の平方根のうち正の方」としても正解となると思います。&lt;/p&gt; &lt;p&gt;&lt;/p&gt;
+
+            &lt;p&gt;
+                &lt;h1&gt;(5)&lt;/h1&gt;
+                $\\sqrt{6}&gt;0$ であるから，$\\sqrt{6}$ を有理数であると仮定すると，互いに素な自然数 $m,~n$ を用いて $$ \\sqrt{6} = \\frac{m}{n} $$ と表せるので \\begin{eqnarray*} &amp;~&amp; 6 = \\frac{m^2}{n^2} ~~~~~\\therefore~ m^2 = 6 n^2 \\end{eqnarray*} となる。$m$ が 素数 $p_0$ の倍数であるとすると，自然数 $k$ を用いて $m = k p_0$ と表せ， \\begin{eqnarray*}
+                &amp;~&amp; (k p_0)^2 = 6 n^2 ~~\\cdots (*) \\\\ &amp;\\therefore~&amp; (k^2 {p_0}) \\cdot p_0 = 6 n^2 \\end{eqnarray*} となる。&lt;br&gt; ここで，与えられた真である命題「自然数 $a$ が素数 $p$ の倍数であり，自然数 $b,c$ によって， $a=bc$ と表されるならば，$b$ または $c$ の少なくとも一方は $p$ の倍数である $(*)$」 より，$6$ または $n^2$ の少なくとも一方は，$p_0$
+                の倍数である。 &lt;br&gt; いま，$m,~n$ が互いに素であるから，$n^2$ は $p_0$ の倍数でない。よって，6 $(=2\\cdot3)$ が $p_0$ の倍数である。&lt;/p&gt; &lt;p&gt;    &lt;ul&gt;
+                    &lt;li&gt;
+                        (i)　$p_0 = 2$ とすると， $$(2k)^2 = 6 n^2~~~~\\therefore~ 2k^2 = 3n^2 $$ であり，$2$ と $3$ は互いに素であるから，$n$ は $2$ の倍数であることが必要だが，$m=2k$ より，$m,~n$ が互いに素であることと矛盾する。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                    &lt;li&gt;
+                        (ii)　$p_0 = 3$ とすると， $$(3k)^2 = 6 n^2~~~~\\therefore~ 3k^2 = 2n^2 $$ であり，2 と 3 は互いに素であるから，$n$ は 3 の倍数であることが必要だが，$m=3k$ より，$m,~n$ が互いに素であることと矛盾する。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                &lt;/ul&gt;
+
+                したがって，$\\sqrt{6}$ は有理数ではない実数であるから無理数である．&lt;/p&gt; &lt;p&gt;&lt;/p&gt;&lt;/p&gt;`
+        }, {
+            SEQ: `#004`,
+            Q_lead: `&lt;p&gt;【2017年　東京工業大（前期）】&lt;br&gt;&lt;/p&gt; &lt;p&gt;次の条件 (i)，(ii) をともに満たす正の整数$N$をすべて求めよ。&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;&lt;ul&gt;&lt;/p&gt; &lt;p&gt;&lt;li&gt;(i)　$N$の正の約数は12個である。&lt;/li&gt;&lt;/p&gt; &lt;p&gt;&lt;li&gt;(ii)　$N$の正の約数を小さい方から順に並べたとき，7番目の数は12である。&lt;/li&gt;&lt;/p&gt; &lt;p&gt;&lt;/ul&gt;&lt;/p&gt;`,
+            Q_02: `&lt;p&gt;ただし，$N$の約数には$1$と$N$も含めるものとする。&lt;br /&gt;&lt;/p&gt;`,
+            Ans: `&lt;p&gt;    &lt;p&gt;
+                    $N$ の正の約数を小さい方から順に並べたとき，$i$ 番目の約数を $d_i$ とする。条件 (ii) より，$N$ は 1, 2, 3, 4, 6, 12$(=d_7)$ を約数に持つので， $$ d_1=1,~ d_2=2,~ d_3=3,~ d_4=4 $$ である。&lt;/p&gt; &lt;p&gt;    &lt;/p&gt;
+                &lt;p&gt;
+                    また，条件 (i) より$$N= d_6 d_7 =12 d_6$$である。&lt;/p&gt; &lt;p&gt;    &lt;/p&gt;
+                &lt;p&gt;
+                    さらに，$d_7=12$ より $6 \\leqq d_6 \\leqq 11$ であるから，$d_6 = 6,7, \\dots ,11$ として仮定して，それぞれについて考えていく。&lt;/p&gt; &lt;p&gt;    &lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;
+                        (a) $d_6 = 6$ とする。&lt;br&gt; $d_5=5$ であることが必要であるが，$N=12 \\times 6=72$ は 5 を約数に持たないので，不適。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                    &lt;li&gt;
+                        (b) $d_6 = 7$ とする。&lt;br&gt; $12 \\times 7=84$ の正の約数は小さい順に $$1,2,3,4,6,7,12,14,28,42,84$$ であるから，条件 (i), (ii) をともに満たす。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                    &lt;li&gt;
+                        (c) $d_6 = 8$ とする。&lt;br&gt; $12 \\times 8=96$ の正の約数は小さい順に $$1,2,3,4,6,8,12,16,24,32,48,96$$ であるから，条件 (i), (ii) をともに満たす。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                    &lt;li&gt;
+                        (d) $d_6 = 9$ とする。&lt;br&gt; $12 \\times 9=108$ の正の約数は小さい順に $$1,2,3,4,6,9,12,18,27,36,54,108$$ であるから，条件 (i), (ii) をともに満たす。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                    &lt;li&gt;
+                        (e) $d_6 = 10$ とする。&lt;br&gt; $12 \\times 10=120$ の正の約数は小さい順に $$1,2,3,4,5,6,8,10,12,\\dots$$ より，不適。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                    &lt;li&gt;
+                        (f) $d_6 = 11$ とする。&lt;br&gt; $12 \\times 11=132$ の正の約数は小さい順に$$ 1,2,3,4,6,11,12,22,33,44,66,132$$ であるから，条件 (i), (ii) をともに満たす。&lt;/p&gt; &lt;p&gt;        &lt;/li&gt;
+                &lt;/ul&gt;
+                以上より，求める正の整数 $N$ は $$N = 84,~96,~108,~132 ~~~\\cdots\\cdots \\mbox{（答）} $$ である。&lt;/p&gt;`
+        }, {
+            SEQ: `#005`,
+            Q_lead: `&lt;p&gt; 【2019年　千葉大学（前期）】&lt;br&gt;&lt;/p&gt; &lt;p&gt;正の約数がちょうど$m$個であるような，1900以上の自然数の中で最小のものを$d_m$とする。&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;(1)　$d_5$を求めよ。&lt;/p&gt;`,
+            Q_02: `&lt;p&gt;(2)　$d_{15}$を求めよ。&lt;/p&gt;`,
+            Ans: `&lt;p&gt;&lt;p&gt;
+                一般に，ある正の整数 $N$ の素因数分解が $n$ 個の相異なる素数 $p_1,~p_2,~p_3, ~\\dots,~p_n$ を用いて， $$ N = p_1^{a_1} p_2^{a_2} p_3^{a_3} \\dots ~p_n^{a_n} ~~(a_1,~a_2,~a_3,~\\dots,~a_n:\\mbox{正の整数})$$ と表せるとき，$N$ の正の約数の個数は $$(a_1+1)(a_2+1)(a_3+1)\\dots(a_n+1)$$ である。&lt;br&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;h1&gt;(1)&lt;/h1&gt;
+                $d_5$ は正の約数を5個持ち，5は素数であることに注意すると，その素因数分解は素数$p$を用いて $$d_5 = p^4$$ と表される。$5^4=625,~7^4=2401$より， $$d_5 = 7^4 = {\\bf 2401} ~~\\cdots\\cdots {\\bf （答）}$$ である。&lt;br&gt;
+            &lt;/p&gt;
+            &lt;p&gt;
+                &lt;h1&gt;(2)&lt;/h1&gt;
+                $d_{15}$は正の約数を15個持つ。一般に，ある整数の正の約数の個数が奇数であるとき，その整数は平方数である。$43^2=1849,~44^2=1936$より，$44$以上の整数の平方の中で，正の約数を15個持ち，最小であるものを求めればよい。 $$44^2 = (2^2 \\cdot 11)^2 = 2^4 \\cdot 11^2$$ より，$44^2$の正の約数の個数は $3 \\cdot 5=15$ である。 　よって， $$d_{15} = 44^2 = {\\bf 1936} ~~\\cdots\\cdots
+                {\\bf （答）}$$ である。&lt;br&gt;
+            &lt;/p&gt;&lt;/p&gt;`
+        }, {
+            SEQ: `#006`,
+            Q_lead: `&lt;p&gt;【2014年　学習院大学・経済学部】&lt;/p&gt; &lt;p&gt;平面上の 2 点 $\\rm P(1,~2),~Q(3,~2)$ と直線 $L:~ y = ax + 1$ に対して，$\\rm P$ と $L$ の距離を $p$ とし，$\\rm Q$ と $L$ の距離を $q$ とする。$a$ が実数全体を動くとき，$p^2 + q^2$ の最小値と，最小値を与える $a$ を求めよ。&lt;/p&gt;`,
+            Ans: `&lt;p&gt;&lt;h2&gt;解法①：商の微分法を利用する。&lt;/h2&gt;
+            直線 $L$ の方程式 $y=ax+1$ は $ ax-y+1=0 $ と変形できるので
+            \\begin{eqnarray*}
+            &amp;~&amp; p=\\frac{|a \\cdot 1 - 2 + 1|}{\\sqrt{a^2+1}},~~q=\\frac{|a \\cdot 3 - 2 + 1|}{\\sqrt{a^2+1}} \\\\
+            &amp;\\therefore~&amp; p^2=\\frac{(a-1)^2}{a^2+1},~~q^2=\\frac{(3a - 1)^2}{a^2+1}
+            \\end{eqnarray*}
+            である。$f(a)=p^2+q^2$ とおくと
+            \\begin{eqnarray*}
+            f(a)&amp;=&amp;\\frac{(a-1)^2+(3a-1)^2}{a^2+1}\\\\
+            &amp;=&amp;\\frac{10a^2 - 8a+2}{a^2+1}\\\\
+            &amp;=&amp;10 - 8 \\cdot \\frac{a+1}{a^2+1}
+            \\end{eqnarray*}
+            である。&lt;/p&gt; &lt;p&gt;\\begin{eqnarray*}
+            f&#39;(a) &amp;=&amp; - 8 \\cdot \\frac{(a^2+1) - (a+1) \\cdot 2a}{(a^2+1)^2} \\\\
+            %&amp;=&amp; -8 \\cdot \\frac{a^2 + 1 - 2a^2 -2a}{(a^2+1)^2} \\\\
+            &amp;=&amp; 8 \\cdot \\frac{a^2 + 2a - 1}{(a^2+1)^2} \\\\
+            \\end{eqnarray*}
+            より，$f(a)$の$a$に対する増減を表にすると以下のようになる。&lt;/p&gt; &lt;p&gt;\\[
+            \\begin{array}{| c | c | c | c | c | c | c |}%| a || ... | alpha | ... | beta | ... |
+            \\hline
+            a &amp; \\cdots &amp; -1 - \\sqrt{2} &amp; \\cdots &amp; -1 + \\sqrt{2} &amp; \\cdots \\\\ \\hline
+            f&#39;(a) &amp; + &amp; 0 &amp; - &amp; 0 &amp; + \\\\ \\hline
+            f(a) &amp; \\nearrow &amp; 6 + 4 \\sqrt{2} &amp; \\searrow &amp; 6 - 4 \\sqrt{2}&amp; \\nearrow \\\\ \\hline
+            \\end{array}
+            \\]
+            また，
+            \\[ \\lim_{a \\to \\infty} f(a) = \\lim_{a \\to -\\infty} f(a) = 10 \\]
+            より，$p^2+q^2$の最小値は
+            \\[ a=\\sqrt{2}-1 \\mbox{~のとき，} 6 - 4 \\sqrt{2} ~~\\cdots\\cdots \\mbox{(答)}\\]
+            である。&lt;/p&gt; &lt;p&gt;
+            &lt;h2&gt;解法②：2 次方程式の実数解の存在範囲から考える。&lt;/h2&gt;
+            $f(a)=p^2+q^2$ とおくと，（解答例①より）
+            \\begin{eqnarray*}
+            f(a)=10 - 8 \\cdot \\frac{a+1}{a^2+1}
+            \\end{eqnarray*}
+            である。ここで，$\\displaystyle K=\\frac{a+1}{a^2+1}$ とすると，
+            \\begin{eqnarray*}
+            &amp;~&amp; K(a^2+1)= a+1 ~~~(\\because a^2+1 \\neq 0)\\\\
+            &amp;\\therefore&amp; Ka^2 - a + K - 1 = 0 ~~~\\cdots\\cdots\\cdots (*)
+            \\end{eqnarray*}
+            である。&lt;/p&gt; &lt;p&gt;$K = 0$ のとき，$(*)$は
+            \\[ a = -1 \\]
+            である。$K \\neq 0$ のとき，$(*)$ は $a$ の 2 次方程式であり，その判別式を $D$ とすると
+            \\begin{eqnarray*}
+            D&amp;=&amp;(-1)^2-4K(K-1)\\\\
+            &amp;=&amp; -4{K}^2+4K+1
+            \\end{eqnarray*}
+            $a$ は実数全体を動くので，$(*)$ が実数解を持つような条件を考えると
+            \\begin{eqnarray*}
+            &amp;~&amp; D\\geqq 0 \\\\
+            &amp;\\therefore~&amp; -4{K}^2+4K+1 \\geqq 0 \\\\
+            &amp;\\therefore~&amp; ~~~4{K}^2-4K-1 \\leqq 0 \\\\
+            &amp;\\therefore~&amp; \\frac{1-\\sqrt{2}}{2} \\leqq K \\leqq \\frac{1+\\sqrt{2}}{2}
+            \\end{eqnarray*}
+            より，$K$ の最大値は $\\displaystyle \\frac{1+\\sqrt{2}}{2}$ であり，
+            \\[ \\displaystyle f(a)=\\frac{1+\\sqrt{2}}{2}a^2-a+\\displaystyle \\frac{1+\\sqrt{2}}{2}-1 \\]
+            とおくと
+            \\[ f&#39;(a)=(1+\\sqrt{2})a-1 \\]
+            であるから，$K=\\displaystyle \\frac{1+\\sqrt{2}}{2}$ のとき，$D=0$ より $(*)$ は重解 $\\displaystyle a=\\frac{1}{1+\\sqrt{2}} =\\sqrt{2}-1$ を持つ。&lt;/p&gt; &lt;p&gt;よって，$f(a)=p^2+q^2$ の最小値は
+            \\[ a=\\sqrt{2}-1 ~\\mbox{のとき，}~10 - K = 6 - 4 \\sqrt{2} ~~\\cdots \\mbox{(答)} \\]
+            である。&lt;/p&gt; &lt;p&gt;
+            &lt;h2&gt;解法③：定数$a$が，直線$L$の傾きであることに注目すると…&lt;/h2&gt;
+            直線$L$の傾き$a$を$\\tan \\theta ~\\left( -\\dfrac{\\pi}{2} &lt; \\theta &lt; \\dfrac{\\pi}{2} \\right)$とおくと， \\begin{eqnarray*} &amp;~&amp; p=\\frac{|\\tan \\theta - 2 + 1|}{\\sqrt{\\tan^2 \\theta + 1}},~~q=\\frac{| 3\\tan \\theta - 2 + 1|}{\\sqrt{\\tan^2 \\theta + 1}} \\\\ &amp;\\therefore~&amp; p^2=\\frac{(\\tan \\theta -1)^2}{1 + \\tan^2 \\theta},~~q^2=\\frac{(3 \\tan \\theta - 1)^2}{1 + \\tan^2 \\theta} \\\\ &amp;\\therefore~&amp; p^2= (\\tan \\theta -1)^2 \\cos^2 \\theta, ~~q^2= (3 \\tan \\theta - 1)^2 \\cos^2 \\theta \\end{eqnarray*} となる。$g(\\theta) = p^2+q^2$とおくと，
+            \\begin{eqnarray*}
+            g(\\theta) &amp;=&amp; \\left\\{ (\\tan \\theta -1)^2 + (3 \\tan \\theta - 1)^2 \\right\\} \\cos^2 \\theta \\\\
+            &amp;=&amp; \\left\\{ (\\tan^2 \\theta - 2\\tan \\theta + 1) + (9 \\tan^2 \\theta - 6 \\tan \\theta + 1) \\right\\} \\cos^2 \\theta \\\\
+            %&amp;=&amp; \\left( 10\\tan^2 \\theta - 8\\tan \\theta + 2 \\right) \\cos^2 \\theta \\\\
+            &amp;=&amp; 2 \\left( 5\\tan^2 \\theta - 4\\tan \\theta + 1 \\right) \\cos^2 \\theta \\\\
+            &amp;=&amp; 2 \\left( 5\\sin^2 \\theta - 4\\sin \\theta \\cos \\theta + \\cos^2 \\theta \\right) \\\\
+            &amp;=&amp; 2 \\left( 5 \\cdot \\dfrac{ 1 - \\cos 2 \\theta}{2} - 2 \\sin 2\\theta + \\dfrac{ 1 + \\cos 2 \\theta}{2} \\right) \\\\
+            &amp;=&amp; 5 ( 1 - \\cos 2 \\theta) - 4 \\sin 2\\theta + ( 1 + \\cos 2 \\theta) \\\\
+            &amp;=&amp; 6 - 4(\\sin 2\\theta + \\cos 2\\theta) \\\\
+            &amp;=&amp; 6 - 4\\sqrt{2} \\left( \\dfrac{1}{\\sqrt{2}}\\sin 2\\theta + \\dfrac{1}{\\sqrt{2}} \\cos 2\\theta \\right)\\\\
+            &amp;=&amp; 6 - 4\\sqrt{2} \\left( \\sin 2\\theta \\cos \\dfrac{\\pi}{4} + \\cos 2\\theta \\sin \\dfrac{\\pi}{4} \\right)\\\\
+            &amp;=&amp; 6 - 4\\sqrt{2} \\sin \\left(2 \\theta + \\dfrac{\\pi}{4}\\right)
+            \\end{eqnarray*}
+            である。$-\\dfrac{3}{4} \\pi &lt; 2 \\theta + \\dfrac{\\pi}{4} &lt; \\dfrac{5}{4}\\pi $より，$2 \\theta + \\dfrac{\\pi}{4} = \\dfrac{\\pi}{2}$ すなわち，$\\theta = \\dfrac{\\pi}{8}$のとき，$\\sin \\left(2 \\theta + \\dfrac{\\pi}{4}\\right)$が最大値 $1$ をとるので，このとき，$g(\\theta)$の最小値は \\[ g \\left( \\dfrac{\\pi}{8} \\right) = 6 - 4 \\sqrt{2}\\] となる。ここで， \\[ \\tan^2 \\theta = \\dfrac{1 - \\cos 2 \\theta}{ 1 + \\cos 2 \\theta}\\] が成り立つので， \\begin{eqnarray*} \\tan^2 \\dfrac{\\pi}{8} &amp;=&amp; \\dfrac{1 - \\cos \\dfrac{\\pi}{4}}{ 1 + \\cos \\dfrac{\\pi}{4}} \\\\ &amp;=&amp; \\dfrac{ 1 - \\dfrac{1}{\\sqrt{2}} }{ 1 + \\dfrac{1}{\\sqrt{2}} } \\\\ &amp;=&amp; \\left( \\sqrt{2} - 1 \\right)^2 \\\\ \\therefore ~ \\tan \\dfrac{\\pi}{8} &amp;=&amp; \\sqrt{2} - 1 ~~(\\because \\tan \\dfrac{\\pi}{8} &gt; 0) \\\\
+            \\end{eqnarray*}
+            である。&lt;/p&gt; &lt;p&gt;よって，$ p^2 + q^2$の最小値は
+            \\[ a = \\sqrt{2} - 1 ~\\mbox{のとき，}~ 6 - 4 \\sqrt{2} ~~\\cdots \\mbox{(答)} \\]
+            である。&lt;/p&gt;`
+        }, {
+            SEQ: `#007`,
+            Q_lead: `&lt;p&gt;＜小問集合＞&lt;/p&gt; &lt;p&gt;次の(1)〜(3)の問いに答えよ。&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;(1)　$a+b+c=5,~ a^2 + b^2 + c^2 = 11,~ abc=4$ のとき，$a^3+b^3+c^3$ の値を求めよ。&lt;/p&gt;`,
+            Q_02: `&lt;p&gt;(2)　$0 &lt; \\theta &lt;\\pi$ のとき，$\\sin \\theta + \\dfrac{2}{\\sin \\theta}$ の最小値を求めよ。&lt;/p&gt;`,
+            Q_03: `&lt;p&gt;(3)　方程式 $mn + m - 5n + 7 = 0$ を満たす自然数 $m,~n$ の組がいくつ存在するかを求めよ． &lt;/p&gt;`,
+            Ans: `&lt;p&gt;(1) $a^3 + b^3 = (a+b)^3 -3ab(a+b)$ より，
+                                \\begin{eqnarray*}
+                                    a^3 + b^3 + c^3 - 3abc &amp;=&amp; (a+b)^3 - 3ab(a+b) + c^3 - 3abc \\\\
+                                &amp;=&amp; \\{ (a+b) + c\\}^3 - 3(a+b)c\\{ (a+b) + c \\} -3ab\\{ (a+b) + c \\} \\\\
+                                &amp;=&amp; (a+b+c)\\{ (a+b+c)^2 - 3(a+b)c - 3ab \\} \\\\
+                                &amp;=&amp; (a+b+c)\\{ a^2 + b^2 + c^2 - (ab + bc + ca) \\}
+                            \\end{eqnarray*}
+                        である。また，$(a+b+c)^2 = a^2 + b^2 + c^2 - 2(ab + bc + ca)$ より，
+                                \\begin{eqnarray*}
+                                    ab + bc + ca &amp;=&amp; \\frac{1}{2} \\left\\{ (a+b+c)^2 - (a^2 + b^2 + c^2) \\right\\} \\\\
+                                &amp;=&amp; \\frac{1}{2} (5^2 - 11) \\\\
+                                &amp;=&amp; 7
+                            \\end{eqnarray*}
+                        であるから，
+                                \\begin{eqnarray*}
+                                    a^3 + b^3 + c^3 &amp;=&amp; 3abc + (a+b+c)\\{ a^2 + b^2 + c^2 - (ab + bc + ca) \\} \\\\
+                                &amp;=&amp; 3 \\cdot 4 + 5 \\cdot (11 - 7) \\\\
+                                &amp;=&amp; {\\bf 32} 
+                            \\end{eqnarray*}
+                        である。&lt;/p&gt; &lt;p&gt;
+            (2) $\\sin \\theta = u$ とおくと，$0 &lt; \\theta &lt; \\pi$ より，$0 &lt; u \\leqq 1$ である。$k = u + \\dfrac{2}{u}$ とすると，
+                                \\begin{eqnarray*}
+                                    &amp;~&amp; ku = u^2 + 2 \\\\
+                                &amp;\\therefore~&amp; u^2 - ku + 2 = 0 %\\cdots\\cdots (*)
+                            \\end{eqnarray*}
+                        である。$f(u) = u^2 - ku + 2$ とおき，$u$ の 2 次方程式 $f(u)=0$ が $0 &lt; u \\leqq 1$ の範囲に解を持つような $k$ の条件から，その最小値を考える。ここで，
+                                \\[ f(u) = \\left( u - \\frac{k}{2} \\right)^2 + 2 - \\frac{k^2}{4} \\]
+                                     であり，$f(0)=2,~ f(1) = 3 - k$ である。       
+            &lt;ul&gt;
+             &lt;li&gt; $f(u)=0$ が $0 &lt; u \\leqq 1$ に2つ解をもつ条件を考えると，$f(0)&gt;0$ に注意して
+                                    \\begin{eqnarray*}
+                                            &amp;~&amp; f(1) \\leqq 0 ~\\mbox{かつ}~ 0 &lt; \\dfrac{k}{2} &lt; 1 ~\\mbox{かつ}~ f \\left( \\dfrac{k}{2} \\right) \\leqq 0 \\\\
+                                        &amp;\\therefore~&amp; 3 - k \\geqq 0 ~\\mbox{かつ} ~0 &lt; k &lt; 2 ~\\mbox{かつ}~ 2 - \\dfrac{k^2}{4} \\leqq 0 \\\\
+                                        &amp;\\therefore~&amp; k \\geqq 3 ~\\mbox{かつ} ~0 &lt; k &lt; 2 ~\\mbox{かつ}~ k^2 \\geqq 8
+                                    \\end{eqnarray*}
+                                                    となるが，これを満たす実数 $k$ は存在しない。&lt;/li&gt;
+                                
+            &lt;li&gt; $f(u)=0$ が $0 &lt; u \\leqq 1$ に1つ，この範囲に 1 つの相異なる 2 つ解をもつ条件を考えると，$f(0)&gt;0$ に注意して
+                                        \\begin{eqnarray*}
+                                            &amp;~&amp; f(1) \\leqq 0 \\hspace{5mm} \\therefore~ k \\geqq 3
+                                    \\end{eqnarray*}
+            &lt;/li&gt;
+            &lt;/ul&gt;
+            よって，$k$ すなわち $0 &lt; \\theta &lt; \\pi$ における $\\sin \\theta + \\dfrac{2}{\\sin \\theta}$ の最小値は $\\bf 3$ である。&lt;/p&gt; &lt;p&gt;
+            &lt;ul&gt;
+            &lt;li&gt;（注1）$g(\\theta) = \\sin \\theta + \\dfrac{2}{\\sin \\theta}$ として，$g&#39;(\\theta)$ を求め，$g(\\theta)$ の増減から，最小値 $g\\left( \\dfrac{\\pi}{2} \\right) = 3$ としてもよい。&lt;/li&gt;
+            &lt;li&gt;（注2）相加・相乗平均の関係を用いると，
+                                \\[ \\sin \\theta + \\dfrac{2}{\\sin \\theta} \\geqq 2\\sqrt{2} \\]
+                                    となるが，等号成立条件を考えると $\\sin \\theta = \\pm \\sqrt{2}$ となってしまい，この不等式において，等号が成り立つ $\\theta$ は存在しない。&lt;br&gt;相加・相乗平均の関係はあくまで，&lt;b&gt;「相加平均の値が相乗平均の値と同じかそれ以上となる」&lt;/b&gt;という関係を表しているだけであり，必ずしも最小値の求値問題に使えるとは限らない。&lt;/li&gt;
+            &lt;/ul&gt;
+
+            (3) $mn + m - 5n + 7 = 0 ~ \\cdots(**)$ より
+                                            \\begin{eqnarray*}
+                                                    &amp;~&amp; (m-5)n + m + 7 = 0 \\\\
+                                                    &amp;\\therefore~&amp; (m-5)n + (m - 5) + 12 = 0 \\\\
+                                                    &amp;\\therefore~&amp; (m-5)(n+1) = -12
+                                            \\end{eqnarray*}
+                                    $m,~n$ は自然数であるから，
+                                            「\\( m-5 \\geqq -4 ~~\\mbox{かつ}~~ n+1 \\geqq 2 \\)」
+                                    に注意すると，$(**)$ を満たす自然数 $(m,~n)$ の組は
+                                            \\begin{eqnarray*}
+                                                    &amp;~&amp; (m-5,~n+1) = (-1,~12),~(-2,~6),~(-3,~4),~(-4,~3) \\\\
+                                                    &amp;\\therefore~&amp; (m,~n) = (4,~11),~(3,~5),~(2,~3),~(1,2) %~~\\cdots \\cdots \\mbox{\\bf（答）}
+                                            \\end{eqnarray*}
+                                    の $\\bf 4$ 組である。&lt;/p&gt;`
+        }, {
+            SEQ: `#008`,
+            Q_lead: `&lt;p&gt;【2011年　学習院大学・理学部】&lt;/p&gt; &lt;p&gt;コインを投げ点Pを次の規則によって正三角形ABCの頂点A，B，C上を動かす。点PがAにあるときは，表が出たらBに動かし，裏が出たらCに動かす。&lt;/p&gt; &lt;p&gt;Bにあるときは表が出たらCに動かし，裏が出たらAに動かす。Cにあるときは表が出たらAに動かし，裏が出たらBに動かす。 &lt;/p&gt; &lt;p&gt;&lt;/p&gt; &lt;p&gt;はじめに点PはAにあるとし，コインを$n$回投げた後にPがAにある確率を$a_n$，Bにある確率を$b_n$, Cにある確率を$c_n$とする。&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;(1)　$a_1=0,~b_1=\\dfrac{1}{2},~c_1=\\dfrac{1}{2}$ である。$n=2,~3,~4$に対して，$a_n,~b_n,~c_n$ を求めよ。&lt;/p&gt; &lt;p&gt;&lt;/p&gt;`,
+            Q_02: `&lt;p&gt;(2)&lt;/p&gt; &lt;p&gt;&lt;ul&gt;&lt;/p&gt; &lt;p&gt; &lt;li&gt;(i) $a_{n+1}$ を $a_n,~b_n,~c_n$ を用いて表せ。&lt;/li&gt;&lt;/p&gt; &lt;p&gt; &lt;li&gt;(ii) $b_{n+1}$ を $a_n,~b_n,~c_n$ を用いて表せ。&lt;/li&gt;&lt;/p&gt; &lt;p&gt; &lt;li&gt;(iii) $c_{n+1}$ を $a_n,~b_n,~c_n$ を用いて表せ。&lt;/li&gt;&lt;/p&gt; &lt;p&gt;&lt;/ul&gt;&lt;/p&gt;`,
+            Q_03: `&lt;p&gt;(3)　$b_n = c_n$ であることを示せ。&lt;/p&gt;`,
+            Q_04: `&lt;p&gt;(4)　$a_n$ を求めよ。&lt;/p&gt;`,
+            Ans: `&lt;p&gt;(1), (2)
+            $(n+1)$ 回目にコインを投げた後に点 P が各頂点にある確率を次の 3 つの場合に分けて考える。&lt;/p&gt; &lt;p&gt;&lt;ul&gt;
+              &lt;li&gt;(a) $n$ 回目にコインを投げた後に点 A にいる &lt;/li&gt;
+              &lt;li&gt;(b) $n$ 回目にコインを投げた後に点 B にいる &lt;/li&gt;
+              &lt;li&gt;(c) $n$ 回目にコインを投げた後に点 C にいる &lt;/li&gt;
+            &lt;/ul&gt;
+            (a) のとき，点 P は $(n+1)$ 回目にコインを投げた後に表が出たら B に，裏が出たら C にそれぞれ動き，その確率はどちらも $\\dfrac{1}{2}$ である。&lt;/p&gt; &lt;p&gt;(b) のとき，点 P は $(n+1)$ 回目にコインを投げた後に表が出たら C に動き，裏が出たら A にそれぞれ動き，その確率はどちらも $\\dfrac{1}{2}$ である。&lt;/p&gt; &lt;p&gt;(c) のとき，点 P は $(n+1)$ 回目にコインを投げた後に表が出たら A に動き，裏が出たら B にそれぞれ動き，その確率はどちらも $\\dfrac{1}{2}$ である。&lt;/p&gt; &lt;p&gt;以上より，点 P が $(n+1)$ 回目にコインを投げた後に各頂点に移動するのは，$n$ 回目にコインを投げた後に点 P が他の 2 頂点にあり，どちらの頂点から移動してくる場合も，その確率は $\\dfrac{1}{2}$ であるから
+                                    \\[
+                                    \\begin{cases}
+                                            ~a_{n+1} = \\dfrac{1}{2} ( b_n + c_n )  ~\\cdots\\cdots \\mbox{（答） (2)(i) } \\\\
+                                            ~b_{n+1} = \\dfrac{1}{2} ( c_n + a_n ) ~\\cdots\\cdots \\mbox{（答） (2)(ii) } \\\\
+                                            ~c_{n+1} = \\dfrac{1}{2} ( a_n + b_n ) ~\\cdots\\cdots \\mbox{（答） (2)(iii) }
+                                    \\end{cases}
+                                    \\]
+            である。&lt;/p&gt; &lt;p&gt;また，$a_1=0,~b_1=\\dfrac{1}{2},~c_1=\\dfrac{1}{2}$ より，
+                                    \\[
+                        \\begin{cases}
+                                            (a_2,~b_2,~c_2) &amp;= \\left( \\dfrac{1}{2},~ \\dfrac{1}{4},~ \\dfrac{1}{4} \\right) \\\\
+                                            (a_3,~b_3,~c_3) &amp;= \\left( \\dfrac{1}{4},~ \\dfrac{3}{8},~ \\dfrac{3}{8} \\right)  \\\\
+                                            (a_4,~b_4,~c_4) &amp;= \\left( \\dfrac{3}{8},~ \\dfrac{5}{16},~ \\dfrac{5}{16} \\right) 
+                                    \\end{cases}
+                        \\hspace{10mm} \\cdots\\cdots  \\mbox{（答） (1) } 
+                        \\]
+                            である。&lt;/p&gt; &lt;p&gt;(3) $n \\geqq 1$ に対して，
+                                    \\[ b_n = c_n ~~~\\cdots\\cdots ~(*) \\]
+                            であることを数学的帰納法を用いて示す。&lt;/p&gt; &lt;p&gt;(1) より，$n= 1, ~2, ~3, ~4$ のときは $(*)$ は成り立つ。&lt;/p&gt; &lt;p&gt;次に，$k$ を自然数として，$n=k$ のときに $(*)$ が成り立つと仮定すると，$b_k = c_k$ であり，(2) より，
+                                    \\begin{eqnarray*}
+                                            b_{k+1}        &amp;=&amp; \\dfrac{1}{2} ( c_k + a_k ) \\\\
+                                                            &amp;=&amp; \\dfrac{1}{2} ( b_k + a_k ) \\\\
+                                                            &amp;=&amp; c_{k+1}
+                                    \\end{eqnarray*}
+                            となり，$n=k+1$ のときも $(*)$ が成り立つ。&lt;/p&gt; &lt;p&gt;よって，$n \\geqq 1$ に対して，$(*)$ が成り立つ。&lt;/p&gt; &lt;p&gt;                
+            (4) $a_n + b_n + c_n = 1$ より，\\( b_n + c_n = 1 - a_n \\) であるから，(2)(i) の結果より，
+                                    \\begin{eqnarray*}
+                                            &amp;~&amp; a_{n+1} = \\dfrac{1}{2} ( 1 - a_{n} ) \\\\ 
+                                            &amp;\\therefore~&amp; a_{n+1} - \\dfrac{1}{3} = - \\dfrac{1}{2} \\left( a_n - \\dfrac{1}{3} \\right) ~
+                                    \\end{eqnarray*}
+                            であり，(1) より，$a_1=0$ であるから，数列 $\\left\\{ a_n - \\dfrac{1}{3} \\right\\}$ は，
+                                    \\[ \\mbox{初項：} -\\dfrac{1}{3}~,~~\\mbox{公比：} - \\dfrac{1}{2} \\]
+                            の等比数列であり，
+                                    \\begin{eqnarray*}
+                                            &amp;~&amp; a_{n} - \\dfrac{1}{3} =  \\left(- \\dfrac{1}{3} \\right) \\cdot \\left(- \\dfrac{1}{2} \\right)^{n-1} \\\\ 
+                                            %&amp;\\therefore~&amp; a_{n} = \\dfrac{1}{3} - \\dfrac{1}{3} \\cdot \\left(- \\dfrac{1}{2} \\right)^{n-1} \\\\ %\\cdots(**)
+                                            &amp;\\therefore~&amp; a_{n} = \\dfrac{1}{3} \\left\\{ 1 - \\left(- \\dfrac{1}{2} \\right)^{n-1} \\right\\} ~~\\cdots\\cdots  \\mbox{（答）}
+                                    \\end{eqnarray*}
+                            である。&lt;/p&gt;`
+        }, {
+            SEQ: `#009`,
+            Q_lead: `&lt;p&gt;【2014年　芝浦工業大学・工学部】&lt;/p&gt; &lt;p&gt;座標平面上において，3点 $\\rm A(0, -2, 3), B(-1, 1, 4), C(1, 1, 2)$ の定める平面を $\\alpha$ とする。また，原点を O とする。&lt;/p&gt;`,
+            Q_01: `&lt;p&gt;(1)　$\\overrightarrow{\\rm AB} \\cdot \\overrightarrow{\\rm AC}$ と $\\triangle{\\rm ABC}$ の面積を求めよ。&lt;/p&gt;`,
+            Q_02: `&lt;p&gt;(2)　原点 O から平面 $\\alpha$ に垂線を下ろし，その交点を H とする。$\\overrightarrow{\\rm AH}$ を $\\overrightarrow{\\rm AB},~ \\overrightarrow{\\rm AC}$ を用いて表せ。また，点 H の座標を求めよ。&lt;/p&gt;`,
+            Q_03: `&lt;p&gt;(3)　四面体 OABC の体積を求めよ。&lt;/p&gt;`,
+            Ans: `&lt;p&gt;(1)　$\\overrightarrow{\\rm AB} =(-1,3,1),~ \\overrightarrow{\\rm AC}=(1,3,-1)$ より
+        \\begin{eqnarray*}
+                \\overrightarrow{\\rm AB} \\cdot \\overrightarrow{\\rm AC}&amp;=&amp;-1 \\cdot 1 + 3 \\cdot 3 + 1 \\cdot(-1)\\\\
+                &amp;=&amp;7 ~~\\cdots \\mbox{（答）}
+        \\end{eqnarray*}
+である。&lt;/p&gt; &lt;p&gt;また，$\\left|\\overrightarrow{\\rm AB}\\right|^2=1+9+1=11,~\\left|\\overrightarrow{\\rm AC}\\right|^2=1+9+1=11$ より，$\\triangle{\\rm ABC}$ の面積を $S$ とすると
+        \\begin{eqnarray*}
+                S&amp;=&amp;\\frac{1}{2} \\sqrt{\\left|\\overrightarrow{\\rm AB}\\right|^2 \\left|\\overrightarrow{\\rm AC}\\right|^2 - (\\overrightarrow{\\rm AB} \\cdot \\overrightarrow{\\rm AC})^2}\\\\
+                &amp;=&amp;\\frac{1}{2} \\sqrt{11 \\cdot 11 - 7^2} \\\\
+                &amp;=&amp;3 \\sqrt{2} ~~\\cdots \\mbox{（答）}
+        \\end{eqnarray*}
+である。&lt;/p&gt; &lt;p&gt;
+(2)　$\\rm H$ は平面 $\\alpha$ 上の点であるから
+        \\begin{eqnarray*}
+                \\overrightarrow{\\rm AH}&amp;=&amp;s\\overrightarrow{\\rm AB}+t\\overrightarrow{\\rm AC}\\\\
+                &amp;=&amp;s(-1,3,1)+t(1,3,-1)\\\\
+                &amp;=&amp;\\bigl( -(s-t),~ 3(s+t),~ s-t \\bigr)
+        \\end{eqnarray*}        
+を満たす実数 $s,t$ が存在する。&lt;/p&gt; &lt;p&gt;        \\begin{eqnarray*}
+                \\overrightarrow{\\rm OH}&amp;=&amp;\\overrightarrow{\\rm OA}+t\\overrightarrow{\\rm AH}\\\\
+                &amp;=&amp;\\bigl( -(s-t),~ 3(s+t),~ s-t \\bigr) + (0,-2,3) \\\\
+                &amp;=&amp;\\bigl( -(s-t),~ 3(s+t)-2,~ s-t+3 \\bigr)
+        \\end{eqnarray*}
+であり，$\\overrightarrow{\\rm OH}$ は $\\overrightarrow{\\rm AB}, \\overrightarrow{\\rm AC}$ と垂直であるから
+        \\[
+        \\begin{cases}
+                ~\\overrightarrow{\\rm OH} \\cdot \\overrightarrow{\\rm AB}=0\\\\
+                ~\\overrightarrow{\\rm OH} \\cdot \\overrightarrow{\\rm AC}=0
+        \\end{cases}
+        \\]
+        \\[ \\therefore
+        \\begin{cases}
+                ~\\bigl( -(s-t),~ 3(s+t)-2,~ s-t+3 \\bigr) \\cdot (-1,3,1)=0\\\\
+                ~\\bigl( -(s-t),~ 3(s+t)-2,~ s-t+3 \\bigr) \\cdot (1,3,-1)=0
+        \\end{cases}
+        \\]
+        \\[ \\therefore
+        \\begin{cases}
+                ~(s-t)+3\\{3(s+t)-2\\}+(s-t+3)=0\\\\
+                ~ -(s-t)+3\\{3(s+t)-2\\}-(s-t+3)=0
+        \\end{cases}
+        \\]
+        \\[ \\therefore
+        \\begin{cases}
+                ~11s+7t=3\\\\
+                ~7s+11t=9
+        \\end{cases}
+        \\]
+        $$\\therefore s=-\\frac{5}{12},~~t=\\frac{13}{12}$$
+である。&lt;/p&gt; &lt;p&gt;よって，
+        $$\\overrightarrow{\\rm AH}=-\\frac{5}{12}\\overrightarrow{\\rm AB}+\\frac{13}{12} \\overrightarrow{\\rm AC}  ~~\\cdots \\mbox{（答）}$$
+である。&lt;/p&gt; &lt;p&gt;また，
+        \\begin{eqnarray*}
+                \\overrightarrow{\\rm OH}&amp;=&amp;\\left(~ -\\left(\\frac{5}{12}-\\frac{13}{12}\\right),~ 3\\left(\\frac{5}{12}+\\frac{13}{12}\\right)-2,~ -\\frac{5}{12}-\\frac{13}{12}+3 ~\\right)\\\\
+                &amp;=&amp;\\left( \\frac{3}{2},~0,~\\frac{3}{2} \\right)
+        \\end{eqnarray*}
+        より，点 H の座標は
+        $$ \\left( \\frac{3}{2},~0,~\\frac{3}{2} \\right) ~~\\cdots \\mbox{（答）}$$
+である。&lt;/p&gt; &lt;p&gt;
+(3)　$$\\displaystyle \\left|\\overrightarrow{\\rm OH}\\right|=\\sqrt{\\frac{9}{4}+0+\\frac{9}{4}}=\\frac{3\\sqrt{2}}{2}$$
+        であるから，四面体 OABC の体積を $V$ とすると
+        \\begin{eqnarray*}
+                V&amp;=&amp;\\frac{1}{3}~S~\\left|\\overrightarrow{\\rm OH}\\right| \\\\
+                &amp;=&amp;\\frac{1}{3} \\cdot 3\\sqrt{2} \\cdot \\frac{3\\sqrt{2}}{2} \\\\
+                &amp;=&amp;3 ~~\\cdots \\mbox{（答）}
+        \\end{eqnarray*}
+である。&lt;/p&gt;`
+        }];
+
+
+
+
+        let moji = document.getElementById(&#39;moji&#39;);
+        var n = Q_DB.length;
+        var rand = getRandomInt(n);
+
+        var src = [&quot;&lt;small&gt;（問題管理番号：&quot; + Q_DB[rand][&quot;SEQ&quot;] + &quot;）&lt;/small&gt;&quot;];
+        for (k = 1; k &lt; Q_DB_header.length - 1; k++) {
+            var head = Q_DB_header[k];
+
+            if (Q_DB[rand][head] != undefined) {
+                src.push(Q_DB[rand][head]);
+            }
+        }
+
+        moji.insertAdjacentHTML(&#39;beforeend&#39;, src.join(&quot;&lt;br&gt;&quot;));
+
+
+
+        //moji.insertAdjacentHTML(&#39;afterend&#39;, Q_DB[rand][Q_DB[rand].length - 1]);
+    &lt;/script&gt;
+&lt;/p&gt;
+
+
+&lt;div&gt;
+    &lt;br&gt;&lt;br&gt; ---------------------&lt;br&gt;
+    &lt;b&gt; 解答表示 &lt;/b&gt; をクリックすると，解答が表示されます。&lt;br&gt;
+    &lt;b&gt;&lt;input id=&quot;Submit1&quot; onclick=&quot;return convert2LaTeX()&quot; type=&quot;button&quot; value=&quot;解答表示&quot; /&gt;&lt;/b&gt;
+&lt;/div&gt;
+
+
+&lt;textarea id=&quot;command2&quot; name=&quot;textbox2&quot; style=&quot;height: 0px; width: 0%;&quot;&gt;
+&lt;/textarea&gt;
+
+&lt;textarea id=&quot;command1&quot; name=&quot;textbox1&quot; style=&quot;height: 0px; width: 0%;&quot;&gt;&lt;/script&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=900&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--******ここからLaTeX入力******--&gt;
+&lt;/textarea&gt;
+
+&lt;textarea id=&quot;command3&quot; name=&quot;textbox3&quot; style=&quot;height: 0px; width: 0%;&quot;&gt;    &lt;!--******LaTeX入力ここまで******--&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/textarea&gt;
+
+&lt;br /&gt;
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+    //var src = document.getElementById(&quot;TextBox1&quot;).value;
+    var src1 = `
+&lt;html&gt;
+    &lt;title&gt;解答例&lt;/title&gt;
+    &lt;head&gt;
+        &lt;script src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js&quot; type=&quot;text/javascript&quot;&gt;    
+        MathJax.Hub.Config({
+        HTML: [&quot;input/TeX&quot;,&quot;output/HTML-CSS&quot;],
+        TeX: { extensions: [&quot;AMSmath.js&quot;,&quot;AMSsymbols.js&quot;], 
+               equationNumbers: { autoNumber: &quot;AMS&quot; } },
+        extensions: [&quot;tex2jax.js&quot;],
+        jax: [&quot;input/TeX&quot;,&quot;output/HTML-CSS&quot;],
+        tex2jax: {
+            processEscapes: true,
+            inlineMath: [[&#39;$&#39;, &#39;$&#39;], [&quot;\\\\(&quot;, &quot;\\\\)&quot;]],
+            displayMath: [[&#39;$$&#39;, &#39;$$&#39;], [&quot;\\\\[&quot;, &quot;\\\\]&quot;]]
+        },
+        &quot;HTML-CSS&quot;: { availableFonts: [&quot;TeX&quot;],
+                      linebreaks: { automatic: true } }
+                      });
+`;
+
+    function convert2LaTeX() {
+        var obj = window.open();
+        obj.document.open();
+        obj.document.write(src1);
+        obj.document.write(document.getElementById(&quot;command1&quot;).value);
+        var command2 = Q_DB[rand].Ans;
+        obj.document.write(command2);
+        obj.document.write(document.getElementById(&quot;command3&quot;).value);
+        obj.document.close();
+    }
+&lt;/script&gt;" jsaction="rcuQ6b:WYd;"><div class="EmVfjc qs41qe UzswCe" data-loadingmessage=" " jscontroller="qAKInc" jsaction="animationend:kWijWc;dyRcpb:dyRcpb" data-active="true" jsname="Hy6Uif"><div class="Cg7hO" aria-live="assertive" jsname="vyyg5"> </div><div jsname="Hxlbvc" class="xu46lf"><div class="ir3uv uWlRce co39ub"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div><div class="ir3uv GFoASc Cn087"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div><div class="ir3uv WpeOqd hfsr6b"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div><div class="ir3uv rHV3jf EjXFBf"><div class="xq3j6 ERcjC"><div class="X6jHbb GOJTSe"></div></div><div class="HBnAAc"><div class="X6jHbb GOJTSe"></div></div><div class="xq3j6 dj3yTd"><div class="X6jHbb GOJTSe"></div></div></div></div></div><iframe jsname="WMhH6e" class=" YMEQtf" frameborder="0" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads" id="7afb5985d056c4fc_22" name="7afb5985d056c4fc_22" scrolling="no" title="カスタム埋め込み" aria-label="カスタム埋め込み"></iframe></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="h.7821423711dff868_18" class="yaqOZd" style=""><div class="IFuOkc"></div><div class="mYVXT"><div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1"><div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"><div class="oKdM2c ZZyype Kzv0Me"><div id="h.7821423711dff868_15" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb JYTMs"><div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb Depvyb baZpAe"><p dir="ltr" class="CDt4Ke zfr3Q" style="text-align: center;"><span class=" jgG6ef" style="font-family: &#39;Lato&#39;; vertical-align: baseline;"><strong>問題文の下にあるボタンから解答例を見ることができます。</strong></span></p><p dir="ltr" class="CDt4Ke zfr3Q"><span style="color: #ff0000; font-family: &#39;Lato&#39;; font-size: 12pt; text-decoration: underline; vertical-align: baseline;"><strong>（注）<br>スマートフォン・タブレットのLINEアプリ内の自動で開かれるブラウザでは表示されません。<br>本サイトのリンクをコピペ等して、ブラウザアプリ（Safari, Google Chrome, Firefoxなど）でご覧ください。</strong></span></p></div></div></div></div></div></div></div></div></div></section><section id="h.3871e611f2ed7091_25" class="yaqOZd" style=""><div class="IFuOkc"></div><div class="mYVXT"><div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1"><div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"><div class="oKdM2c ZZyype Kzv0Me"><div id="h.3871e611f2ed7091_28" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb JYTMs"><div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb Depvyb baZpAe"><p dir="ltr" class="CDt4Ke zfr3Q" style="text-align: center;"><span class=" aw5Odc jgG6ef" style="font-family: &#39;Lato&#39;; font-variant: normal; text-decoration: underline; vertical-align: baseline;"><a class="XqQF9c" href="https://docs.google.com/forms/d/e/1FAIpQLSfdkQSDhpttf6qTSyFoasn5EAhlmAht_FMvcJyres-AWiY7JA/viewform?usp=sf_link" target="_blank"><strong>問題</strong></a></span><span class=" jgG6ef aw5Odc" style="font-family: &#39;Lato&#39;; text-decoration: underline; vertical-align: baseline;"><a class="XqQF9c" href="https://docs.google.com/forms/d/e/1FAIpQLSfdkQSDhpttf6qTSyFoasn5EAhlmAht_FMvcJyres-AWiY7JA/viewform?usp=sf_link" target="_blank"><strong>を投稿したいという方はこちらから！！</strong></a></span><span class=" jgG6ef" style="font-family: &#39;Lato&#39;; vertical-align: baseline;"><br></span><span style="font-family: &#39;Lato&#39;; font-size: 14pt; vertical-align: baseline;"><strong>（Googleフォームにて投稿可能です。投稿にはGoogleアカウントでのログインが必要です。）</strong></span></p></div></div></div></div></div></div></div></div></div></section></div><div class="Xpil1b xgQ6eb"></div><footer jsname="yePe5c"><section id="h.7821423711dff868_22" class="yaqOZd" style=""><div class="IFuOkc"></div><div class="mYVXT"><div class="LS81yb VICjCf j5pSsc db35Fc" tabindex="-1"><div class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc"><div class="JNdkSc-SmKAyb LkDMRd"><div class="" jscontroller="sGwD4d" jsaction="zXBUYb:zTPCnb;zQF9Uc:Qxe3nd;" jsname="F57UId"><div class="oKdM2c ZZyype Kzv0Me"><div id="h.7821423711dff868_19" class="hJDwNd-AhqUyc-uQSCkd Ft7HRd-AhqUyc-uQSCkd jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb JYTMs"><div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb Depvyb baZpAe"><small id="h.dof4737j2ui6" dir="ltr" class="CDt4Ke zfr3Q TMjjoe" style="display: block;">本サイトはLINEのOPCにて紹介しているサイトです。</small><small id="h.tox52cnqaauv" dir="ltr" class="CDt4Ke zfr3Q TMjjoe" style="display: block;"><br></small><small id="h.4400qeowf3ns" dir="ltr" class="CDt4Ke zfr3Q TMjjoe" style="display: block;">（<span class=" aw5Odc" style="text-decoration: underline;"><a class="XqQF9c" href="https://docs.google.com/forms/d/e/1FAIpQLSdP-u5L5tJkec4WfynTvAXqDlXIN998vU_bc5SrRL9Ldvxb7A/viewform?usp=sf_link" target="_blank">当サイトの管理・編集にご興味のある方はこちらから</a></span>）</small></div></div></div></div></div></div></div></div></div></section></footer><div jscontroller="j1RDQb" jsaction="rcuQ6b:rcuQ6b;MxH79b:JdcaS;FaOgy:XuHpsb;" class="dZA9kd ynRLnc" data-last-updated-at-time="1639036567514"><div role="button" class="U26fgb JRtysb WzwrXb I12f0b K2mXPb zXBiaf ynRLnc" jscontroller="iSvg6e" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;;keydown:I481le;" jsshadow jsname="Bg3gkf" aria-label="サイトの操作" aria-disabled="false" tabindex="0" aria-haspopup="true" aria-expanded="false" data-menu-corner="bottom-start" data-anchor-corner="top-start"><div class="NWlf3e MbhUzd" jsname="ksKsZd"></div><span jsslot class="MhXXcc oJeWuf"><span class="Lw7GHd snByac"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class=" NMm5M"><path d="M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z"/></svg></span></span><div jsname="xl07Ob" style="display:none" aria-hidden="true"><div class="JPdR6b hVNH5c" jscontroller="uY3Nvd" jsaction="IpSVtb:TvD9Pc;fEN2Ze:xzS4ub;frq95c:LNeFm;cFpp9e:J9oOtd; click:H8nU8b; mouseup:H8nU8b; keydown:I481le; keypress:Kr2w4b; blur:O22p3e; focus:H8nU8b" role="menu" tabindex="0" style="position:fixed"><div class="XvhY1d" jsaction="mousedown:p8EH2c; touchstart:p8EH2c;"><div class="JAPqpe K0NPx"><span jsslot class="z80M1 FeRvI" jsaction="click:o6ZaF(preventDefault=true); mousedown:lAhnzb; mouseup:Osgxgf; mouseenter:SKyDAe; mouseleave:xq3APb;touchstart:jJiBRc; touchmove:kZeBdd; touchend:VfAz8(preventMouseEvents=true)" jsname="j7LFlb" data-disabled-tooltip="不正行為の報告機能はプレビュー モードでは利用できません" aria-label="不正使用の報告" role="menuitem" tabindex="-1"><div class="aBBjbd MbhUzd" jsname="ksKsZd"></div><div class="uyYuVb oJeWuf" jscontroller="HYv29e" jsaction="JIbuQc:dQ6O0c;" jsname="xx9PJb" data-abuse-proto="%.@.null,&quot;117013812803758082613&quot;,&quot;https://sites.google.com/view/todays-math-problem/%E3%83%9B%E3%83%BC%E3%83%A0&quot;,null,null,[],[]]"><div class="jO7h3c">不正使用の報告</div></div></span><span jsslot class="z80M1 FeRvI" jsaction="click:o6ZaF(preventDefault=true); mousedown:lAhnzb; mouseup:Osgxgf; mouseenter:SKyDAe; mouseleave:xq3APb;touchstart:jJiBRc; touchmove:kZeBdd; touchend:VfAz8(preventMouseEvents=true)" jsname="j7LFlb" aria-label="ページの詳細" role="menuitem" tabindex="-1"><div class="aBBjbd MbhUzd" jsname="ksKsZd"></div><div class="uyYuVb oJeWuf" jsaction="JIbuQc:hriXLd;" jsname="Rg8K2c"><div class="jO7h3c">ページの詳細</div></div></span></div></div></div></div></div></div><div jscontroller="j1RDQb" jsaction="focusin:gBxDVb(srlkmf); focusout:zvXhGb(srlkmf); click:ro2KTd(psdQ5e),Toy3n(V2zOu);JIbuQc:DSypkd(Bg3gkf);MxH79b:JdcaS;rcuQ6b:rcuQ6b;" class="LqzjUe ynRLnc" data-last-updated-at-time="1639036567514"><div jsname="psdQ5e" class="Q0cSn"></div><div jsname="bN97Pc" class="hBW7Hb"><div role="button" class="U26fgb mUbCce fKz7Od kpPxtd QMuaBc M9Bg4d" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;" jsshadow jsname="Bg3gkf" aria-label="サイトの操作" aria-disabled="false" tabindex="-1" aria-hidden="true"><div class="VTBa7b MbhUzd" jsname="ksKsZd"></div><span jsslot class="xjKiLb"><span class="Ce1Y1c" style="top: -12px"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class=" NMm5M"><path d="M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zM11 9h2V7h-2v2z"/></svg></span></span></div><div jsname="srlkmf" class="hUphyc"><div class="YkaBSd"><div class="iBkmkf"><span>ページを更新しました</span> <span jsname="CFIm1b" class="dji00c" jsaction="AHmuwe:eGiyHb; mouseover:eGiyHb;" tabindex="0" role="contentinfo"></span></div></div><div class="YkaBSd"><div role="button" class="U26fgb kpPxtd J7BuEb" jsshadow jsname="V2zOu" aria-disabled="false" tabindex="0">Google サイト</div></div><div class="YkaBSd" jscontroller="HYv29e" jsaction="click:dQ6O0c;" data-abuse-proto="%.@.null,&quot;117013812803758082613&quot;,&quot;https://sites.google.com/view/todays-math-problem/%E3%83%9B%E3%83%BC%E3%83%A0&quot;,null,null,[],[]]"><div role="button" class="U26fgb kpPxtd J7BuEb" jsshadow aria-label="不正使用の報告" aria-disabled="false" tabindex="0">不正使用の報告</div></div></div></div></div></div></div></div><script nonce="rTlwRsEFjIeOc-qeS1bacA">DOCS_timing['cov']=new Date().getTime();</script><script src="https://www.gstatic.com/_/atari/_/js/k=atari.vw.ja.MRlnA4pR-7o.O/d=1/rs=AGEqA5lAF1XCW2qvXQZ-FnrJV_Dgew9VWw/m=view" id="base-js" nonce="rTlwRsEFjIeOc-qeS1bacA"></script></div></div><div jscontroller="YV8yqd" jsaction="rcuQ6b:npT2md"><div id="docs-aria-speakable" aria-live="assertive" aria-relevant="additions" aria-atomic="true" aria-hidden="false" role="region" class="IWfHH"></div></div></body></html>
