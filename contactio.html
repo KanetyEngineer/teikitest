@@ -180,83 +180,75 @@
       <p class="btn"><a href="taisakuio.html">対策教材一覧</a></p>
       <CENTER>
 
-<-log-->
-<TABLE width="400" border="1"><TR><TD>
-親記事です。
+<p>掲示板</p>
 
-<--res-->
-<TABLE width="300" border="1"><TR><TD>
-レス記事です。
-</TD></TR></TABLE>
-<--res-->
+<form method="POST" action="<?php print($_SERVER['PHP_SELF']) ?>">
+<input type="text" name="personal_name"><br><br>
+<textarea name="contents" rows="8" cols="40">
+</textarea><br><br>
+<input type="submit" name="btn1" value="投稿する">
+</form>
 
-</TD></TR></TABLE>
-<BR><BR>
-<--log-->
+<?php
 
-</CENTER>
-    
-    <FORM>
-<TABLE width="80%" cellspacing="0" cellpadding="1" border="0">
-<TR><TD align="right">
-<TABLE align="center" cellspacing="0" cellpadding="1" border="0">
-<TR><TD>Name</TD><TD><INPUT type="text" name="name" size="16" class="INPUT"></TD>
-<TD><icon_page>Icon</icon_page></TD><TD>
-<SELECT name="icon" class="INPUT"></SELECT></TD></TR><TR>
-<TD>Mail</TD><TD><INPUT type="text" name="mail" size="16" class="INPUT"></TD>
-<TD>URL</TD><TD><INPUT type="text" name="url" size="16" value="http://" class="INPUT"></TD></TR>
-<TR>
-<TD>Title</TD><TD colspan="3"><INPUT type="text" name="sub" size="35" class="INPUT"></TD>
-</TR>
-<TR>
-<TD><tag_page>Tag</tag_page></TD>
-<TD colspan="3"><TEXTAREA name="comment" rows="6" cols="31" class="INPUT"></TEXTAREA></TD>
-</TR>
-<TR>
-<TD><file_page>File</file_page></TD><TD colspan="3">
-<input type=file name=upfile size="24" class="INPUT">
-</TD>
-</TR>
-<TR>
-<TD>Back</TD><TD colspan="3">
-<INPUT type="radio" name="bodycolor"></TD>
-</TR>
-<TR>
-<TD>Font</TD><TD colspan="3">
-<INPUT type="radio" name="fontcolor"></TD>
-</TR>
-<TR><TD align=center colspan="4"><input type=checkbox name=cook value="on" checked>Cookie <input type=checkbox name=preview value="on">Preview   <input type=submit value="Submit" class="B1">   Key <INPUT type="password" maxlength="8" size="4" name="pass" value="" class="INPUT"> </TD></TR>
-</TABLE>
-</TD></TR></TABLE>
-</FORM>
-<br><br>
+if($_SERVER["REQUEST_METHOD"] == "POST"){
+    writeData();
+}
 
+readData();
 
+function readData(){
+    $keijban_file = 'keijiban.txt';
 
-<--log-->
+    $fp = fopen($keijban_file, 'rb');
 
-<table width="320" border="0" cellspacing="0" cellpadding="8" bgcolor="body_color">
-<tr><td><br><br><font color="font_color">■ #subject# #new#■</font></td>
-<td align="right"><res_form>[ RES ]</res_form><BR></td></tr>
-<tr><td width="95%">
-#upfile#<font color="font_color">#comment#</font></div>
-<div align="right"><font color="font_color">#getpoint#</font></div><br>
-<div align="right"><font color="font_color">#name# #rank# [#date# No.#no#]</font><br><mail_link>mail</mail_link> <url_link>url</url_link></div></td>
-<td align="right" valign="bottom">#icon#</td></tr></table>
-<br>
+    if ($fp){
+        if (flock($fp, LOCK_SH)){
+            while (!feof($fp)) {
+                $buffer = fgets($fp);
+                print($buffer);
+            }
 
+            flock($fp, LOCK_UN);
+        }else{
+            print('ファイルロックに失敗しました');
+        }
+    }
 
-<--log-->
+    fclose($fp);
+}
 
+function writeData(){
+    $personal_name = $_POST['personal_name'];
+    $contents = $_POST['contents'];
+    $contents = nl2br($contents);
 
+    $data = "<hr>\r\n";
+    $data = $data."<p>投稿者:".$personal_name."</p>\r\n";
+    $data = $data."<p>内容:</p>\r\n";
+    $data = $data."<p>".$contents."</p>\r\n";
 
-<back_page>BACK</back_page>  <next_page>→NEXT</next_page><BR><BR>
-<del_form>++Del・Edit++</del_form><BR>
-<master_form>--Master--</master_form>
+    $keijban_file = 'keijiban.txt';
 
+    $fp = fopen($keijban_file, 'ab');
 
-<BR><A href="http://www.style-21.com/" target="_balnk">Powered By 21style</A><BR>
-</div>
+    if ($fp){
+        if (flock($fp, LOCK_EX)){
+            if (fwrite($fp,  $data) === FALSE){
+                print('ファイル書き込みに失敗しました');
+            }
+
+            flock($fp, LOCK_UN);
+        }else{
+            print('ファイルロックに失敗しました');
+        }
+    }
+
+    fclose($fp);
+}
+
+?>
+
     </div>
     <footer>
       <small>©2022 Kanekont.</small>
