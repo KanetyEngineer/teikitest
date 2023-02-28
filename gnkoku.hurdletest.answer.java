@@ -11,3 +11,9 @@ public String delete(TodoDto model){
     System.out.println("削除ボタンクリック");
     return "redirect:/";
 }
+ @PostMapping(value="/", params="add")
+    public String add(TodoDto model){
+        System.out.println(model);
+        System.out.println("追加ボタンクリック");
+        return "redirect:/";
+    }
