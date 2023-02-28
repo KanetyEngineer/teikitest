@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-  pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
 <meta http-equiv="content-type" charset="utf-8">
 <html>
@@ -148,8 +147,28 @@
   </style>
 </head>
 <body>
-  
-  
-  
-  
+  <tr th:each="todo : ${todos}">
+    <!-- フォームタグ -->
+    <form action="/" method="post"> 
+        <td th:text="${todo.id}"></td>
+        <input type="hidden" name="id" th:value="${todo.id}">
+        <td th:text="${todo.userId}"></td>
+        <input type="hidden" name="userId" th:value="${todo.userId}">
+        <!-- Actionの項目 -->
+        <td><input type="text" th:value="${todo.action}" name="action"></td>
+        <!-- Submitボタンの追加 -->
+        <td><input type="submit" value="修正"></td>
+    </form>
+</tr>
+<tr>
+    <form action="/" method="post">
+        <td></td>
+        <td></td>
+        <td><input type="text" name="action"/></td>
+        <td><input type="submit" name="add" value="追加"/></td>
+    </form>
+</tr>
+  <h2>答え</h2>   
+  <h1></h1>
+
 </body>
